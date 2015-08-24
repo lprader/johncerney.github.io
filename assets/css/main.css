@@ -85,6 +85,13 @@
 		width: 1400px;
 	}
 
+	.container small {
+		font-size: 0.7em;
+		font-style: italic;
+		margin-bottom: 1em;
+		display: block;
+	}
+
 	@media screen and (max-width: 1680px) {
 
 		.container.\31 25\25 {
@@ -2101,7 +2108,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/header.png");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2965,7 +2972,7 @@
 		/* Wrapper */
 
 			.wrapper {
-				padding: 2em 1em 3em 1em;
+				padding: 3em 1em 3em 1em;
 			}
 
 		/* Header */
