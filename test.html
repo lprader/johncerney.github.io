@@ -20,13 +20,28 @@
 		  box-sizing: border-box;
 	}
 
-	.item {
+	.leftCol {
+		margin-bottom:50px;
+		width: 49%;
+		float:left;
+	}
 
-	  float: left;
+	.leftCol .item {
+		float:right;
+	}
+
+	.rightCol {
+		margin-bottom:50px;
+		width: 49%;
+		float: right;
+	}
+
+	.rightCol .item {
+		float: left;
 	}
 
 	.item.large { 
-		width:  40%;
+		width:  90%;
 		
 		padding: 20px 20px 20px 20px;
 		margin: 10px 10px 10px 10px;
@@ -42,7 +57,7 @@
 	}
 
 	.item.xlarge { 
-		width:  55%;
+		width:  100%;
 		
 		padding: 20px 20px 20px 20px;
 		margin: 10px 10px 10px 10px;
@@ -51,6 +66,7 @@
 
 	.categoryNav {
 		text-align: center;
+		width: 100%;
 	}
 
 	.categoryNav a {
@@ -110,57 +126,127 @@
 								</p>
 								-->
 							</header>
+						</article>
 							<!--a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a-->
 
-								<div class="categoryNav">
-									<a nohref onclick='return showSamples("all")'>See all</a>
-									<a nohref onclick='return showSamples("recent")'>Recent</a>
-									<a nohref onclick='return showSamples("early")'>Early</a>
-									<a nohref onclick='return showSamples("midwestern")'>Midwestern</a>
-									<a nohref onclick='return showSamples("california")'>California</a>
-								</div>
+						<div class="row 200%">
+
+							<div class="categoryNav">
+								<a nohref onclick='return showSamples("all")'>See all</a>
+								<a nohref onclick='return showSamples("recent")'>Recent</a>
+								<a nohref onclick='return showSamples("early")'>Early</a>
+								<a nohref onclick='return showSamples("midwestern")'>Midwestern</a>
+								<a nohref onclick='return showSamples("california")'>California</a><BR>
+								(category links not functional yet)
+							</div>
 
 
-	<div id='masonry' >
-		<div class="item xlarge recent midwestern">
-			<a href="images/creepycrawler.jpg" class="image"><img src="images/creepycrawler.jpg" alt="" /></a>
-			<h3>Creepy Crawler</h3>
-			<p>
-				Whimsical scene located 9 miles east of Miles City, Montana off Highway 94-July of 2015- Baby is 16 feet tall and is made of 175 painted plywood panels. The rhino, velociraptor, and bison are all life-size. Sponsored by the Art Club of Custer County District High School and installed on the Muggli Brothers ranch.
-			</p>
+	<div class="recent">
+		<div class="leftCol">
+			<div class="item xlarge">
+				<a href="images/creepycrawler.jpg" class="image"><img src="images/creepycrawler.jpg" alt="" /></a>
+				<h3>Creepy Crawler</h3>
+				<p>
+					Whimsical scene located 9 miles east of Miles City, Montana off Highway 94-July of 2015- Baby is 16 feet tall and is made of 175 painted plywood panels. The rhino, velociraptor, and bison are all life-size. Sponsored by the Art Club of Custer County District High School and installed on the Muggli Brothers ranch.
+				</p>
+			</div>	
+			<div class="item large">
+				<a href="images/siemerauto.jpg" class="image"><img src="images/siemerauto.jpg" alt="" /></a>
+				<h3>Siemer Auto</h3>
+				<p>
+					Friendly Service attendant and old Texaco gas station mural created for Siemer Auto in Fremont, Nebraska-2014- 24 feet wide by 10 feet tall. Nostalgic scene reflecting the quality service and vehicles at Siemer Auto.
+				</p>
+			</div>
 		</div>
 
-		<div class="item large recent midwestern">
-			<a href="images/babydresser1.jpg" class="image"><img src="images/babydresser1.jpg" alt="" /></a>
-			<a href="images/babydresser2.jpg" class="image"><img src="images/babydresser2.jpg" alt="" /></a>
-			<h3>Baby and Dresser/Louis Mohana Furniture</h3>
-			<p>
-				Giant dresser and baby installed alongside the drive up to Louis Mohana Furniture in Bourg, Louisiana-2015- 12 feet tall by 16 feet wide.
-			</p>
+		<div class="rightCol">
+			<div class="item large">
+				<a href="images/babydresser1.jpg" class="image"><img src="images/babydresser1.jpg" alt="" /></a>
+				<a href="images/babydresser2.jpg" class="image"><img src="images/babydresser2.jpg" alt="" /></a>
+				<h3>Baby and Dresser/Louis Mohana Furniture</h3>
+				<p>
+					Giant dresser and baby installed alongside the drive up to Louis Mohana Furniture in Bourg, Louisiana-2015- 12 feet tall by 16 feet wide.
+				</p>
+			</div>
+			<div class="item large">
+				REPLACE WITH COWS AND MOVE TO CALIFORNIA SECTION
+				<a href="images/tahoe.jpg" class="image"><img src="images/tahoe.jpg" alt="" /></a>
+				<h3>Lake Tahoe Historical Society</h3>
+				<p>
+					Located on Highway 50 in Meyers, CA-2013- 32 feet wide by 14 feet tall. A depiction of the Celio Family during one of their bi-annual cattle drives.
+				</p>
+			</div>
 		</div>
+	<!--end of recent div--></div>
+
+
+
+
+	<div class="early">
+		
+	<!--end of early div--></div>
+
+
+	<div class="midwestern">
+		<div class="leftCol">
+			<div class="item large">
+				<a href="images/treasurehunt.jpg" class="image"><img src="images/treasurehunt.jpg" alt="" /></a>
+				<h3>Treasure Hunt (2007)</h3>
+				<p>
+					Located on Highway 141, in Granger, Iowa, about 20 miles Northwest of Des Moines. 16 feet tall scene of two kids who have dug up a buried treasure of classic old toys.
+				</p>
+			</div>	
+			<div class="item large">
+				<a href="images/jigsawranch1.jpg" class="image"><img src="images/jigsawranch1.jpg" alt="" /></a>
+				<h3>Jigsaw Ranch</h3>
+				<p>
+					Located off Highway 3 in Centrahoma, Oklahoma. 12 feet tall. The rancher is 'building' his cattle using jigsaw puzzle pieces. Installed on the property of Kim and Deward Strong. Deward modeled as the rancher.
+				</p>
+				<a href="images/jigsawranch2.jpg" class="image"><img src="images/jigsawranch2.jpg" alt="" /></a>				
+				<p>
+					Another section of the Jigsaw Ranch mural in Centrahoma, Oklahoma. The artist is standing next to the 10 foot tall cow, and a calf is standing nearby.
+				</p>
+			</div>
+		</div>
+
+		<div class="rightCol">
+			<div class="item large">
+				<a href="images/louismohana.jpg" class="image"><img src="images/louismohana.jpg" alt="" /></a>
+				<h3>Louis Mohana Furniture</h3>
+				<p>
+					Portion of a project for the Louis Mohana Furniture Company of Bourg, Louisiana-2 sided billboard, 14 foot tall- 2009
+				</p>
+			</div>
+			<div class="item large">
+				<a href="images/amelia1.jpg" class="image"><img src="images/amelia1.jpg" alt="" /></a>
+				<h3>Amelia Comes Home</h3>
+				<p>
+					A donation to the community of Atchison, Kansas, this mural, 'Amelia Comes Home' is the artist's lighthearted view of what happened to Amelia Earhart and navigator Fred Noonan on their fateful flight across the Pacific in 1937....they simply ran out of fuel and Amelia landed near her birthplace of Atchison. 38 feet wide by 11 feet tall. Photo by Mike Stec.
+				</p>
+				<a href="images/amelia2.jpg" class="image"><img src="images/amelia2.jpg" alt="" /></a>				
+				<p>
+					Detail of 'Amelia Comes Home' mural, installed outside of Atchison, KS (birthplace of Amelia Earhart) Non-commissioned project, a donation to the community....the artist's version of what happened to Amelia and her navigator Fred Noonan on their fateful flight over the Pacific in 1937. Slightly larger than life-size.
+				</p>
+			</div>
+		</div>
+	<!--end of midwestern div--></div>
+
+
+	<div class="california">
+		
+	<!--end of california div--></div>
+
+
+
+
 
 
 		  <div class="item largePortrait"><a href="images/vangogh.jpg" class="image"><img src="images/vangogh.jpg" alt="" /></a></div>
 
 
-		<div class="item large recent california">
-			<a href="images/tahoe.jpg" class="image"><img src="images/tahoe.jpg" alt="" /></a>
-			<h3>Lake Tahoe Historical Society</h3>
-			<p>
-				Located on Highway 50 in Meyers, CA-2013- 32 feet wide by 14 feet tall. A depiction of the Celio Family during one of their bi-annual cattle drives.
-			</p>
-		</div>
-
 		<!-- add Rain for Rent here -->
 
 
-		<div class="item large recent midwestern">
-			<a href="images/siemerauto.jpg" class="image"><img src="images/siemerauto.jpg" alt="" /></a>
-			<h3>Siemer Auto</h3>
-			<p>
-				Friendly Service attendant and old Texaco gas station mural created for Siemer Auto in Fremont, Nebraska-2014- 24 feet wide by 10 feet tall. Nostalgic scene reflecting the quality service and vehicles at Siemer Auto.
-			</p>
-		</div>
 
 		<div class="item large early california">
 			<a href="images/tonys2.jpg" class="image"><img src="images/tonys1.jpg" alt="" /></a>
@@ -219,9 +305,9 @@
 
 
 
-	<!--end of masonry div--></div>
 
-						</article>
+
+						</div>
 					
 					</div>
 
