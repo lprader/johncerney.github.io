@@ -14,14 +14,20 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
 	<style>
-	* {
-	  -webkit-box-sizing: border-box;
-	     -moz-box-sizing: border-box;
-		  box-sizing: border-box;
+	.fill { 
+		min-height: 100vh;
+	}
+
+	.categoryNav {
+		text-align: center;
+		width: 100%;
+	}
+
+	.categoryNav a {
+		margin: 0 8px 0 8px;
 	}
 
 	.leftCol {
-		margin-bottom:50px;
 		width: 49%;
 		float:left;
 	}
@@ -31,13 +37,31 @@
 	}
 
 	.rightCol {
-		margin-bottom:50px;
 		width: 49%;
 		float: right;
 	}
 
 	.rightCol .item {
 		float: left;
+	}
+
+	.centerCol {
+		width:100%;
+		float:center;
+		clear: both;
+	}
+
+	.centerCol .item {
+		float:center;
+	}
+
+	.centerCol img {
+		float:center;
+	}
+
+	.centerCol a {
+		margin: 0 10px 0 10px;
+		float: center;
 	}
 
 	.item.large { 
@@ -64,15 +88,10 @@
 		background-color: #F8F8F8;
 	}
 
-	.categoryNav {
-		text-align: center;
-		width: 100%;
+	.category {
+		margin-bottom: 4em;
+		clear: both;
 	}
-
-	.categoryNav a {
-		margin: 0 8px 0 8px;
-	}
-
 	</style>
 
 	</head>
@@ -116,7 +135,7 @@
 			<!-- Main -->
 				<div class="wrapper style1">
 
-					<div class="container">
+					<div class="container fill">
 						<article id="main" class="special">
 							<header>
 								<h2>Projects</h2>
@@ -132,29 +151,29 @@
 						<div class="row 200%">
 
 							<div class="categoryNav">
-								<a nohref onclick='return showSamples("all")'>See all</a>
 								<a nohref onclick='return showSamples("recent")'>Recent</a>
 								<a nohref onclick='return showSamples("early")'>Early</a>
 								<a nohref onclick='return showSamples("midwestern")'>Midwestern</a>
-								<a nohref onclick='return showSamples("california")'>California</a><BR>
-								(category links not functional yet)
+								<a nohref onclick='return showSamples("california")'>California</a>
+								<a nohref onclick='return showSamples("all")'>See all</a>
 							</div>
+						</div>
 
 
-	<div class="recent">
+	<div class="recent category">
 		<div class="leftCol">
 			<div class="item xlarge">
 				<a href="images/creepycrawler.jpg" class="image"><img src="images/creepycrawler.jpg" alt="" /></a>
-				<h3>Creepy Crawler</h3>
+				<h3>Creepy Crawler (2015)</h3>
 				<p>
-					Whimsical scene located 9 miles east of Miles City, Montana off Highway 94-July of 2015- Baby is 16 feet tall and is made of 175 painted plywood panels. The rhino, velociraptor, and bison are all life-size. Sponsored by the Art Club of Custer County District High School and installed on the Muggli Brothers ranch.
+					Whimsical scene located 9 miles east of Miles City, Montana off Highway 94. Baby is 16 feet tall and is made of 175 painted plywood panels. The rhino, velociraptor, and bison are all life-size. Sponsored by the Art Club of Custer County District High School and installed on the Muggli Brothers ranch.
 				</p>
 			</div>	
 			<div class="item large">
 				<a href="images/siemerauto.jpg" class="image"><img src="images/siemerauto.jpg" alt="" /></a>
-				<h3>Siemer Auto</h3>
+				<h3>Siemer Auto (2014)</h3>
 				<p>
-					Friendly Service attendant and old Texaco gas station mural created for Siemer Auto in Fremont, Nebraska-2014- 24 feet wide by 10 feet tall. Nostalgic scene reflecting the quality service and vehicles at Siemer Auto.
+					Friendly Service attendant and old Texaco gas station mural created for Siemer Auto in Fremont, Nebraska. 24 feet wide by 10 feet tall. Nostalgic scene reflecting the quality service and vehicles at Siemer Auto.
 				</p>
 			</div>
 		</div>
@@ -163,9 +182,9 @@
 			<div class="item large">
 				<a href="images/babydresser1.jpg" class="image"><img src="images/babydresser1.jpg" alt="" /></a>
 				<a href="images/babydresser2.jpg" class="image"><img src="images/babydresser2.jpg" alt="" /></a>
-				<h3>Baby and Dresser/Louis Mohana Furniture</h3>
+				<h3>Baby and Dresser/Louis Mohana Furniture (2015)</h3>
 				<p>
-					Giant dresser and baby installed alongside the drive up to Louis Mohana Furniture in Bourg, Louisiana-2015- 12 feet tall by 16 feet wide.
+					Giant dresser and baby installed alongside the drive up to Louis Mohana Furniture in Bourg, Louisiana. 12 feet tall by 16 feet wide.
 				</p>
 			</div>
 			<div class="item large">
@@ -182,12 +201,24 @@
 
 
 
-	<div class="early">
-		
+	<div class="early category">
+
 	<!--end of early div--></div>
 
 
-	<div class="midwestern">
+	<div class="midwestern category">
+
+		<div class="centerCol">
+			<div class="item xlarge">
+				<a href="images/jigsawranch1.jpg" class="image"><img src="images/jigsawranch1.jpg" alt="" /></a>
+				<a href="images/jigsawranch2.jpg" class="image"><img src="images/jigsawranch2.jpg" alt="" /></a>
+				<h3>Jigsaw Ranch (year?)</h3>
+				<p>
+					Located off Highway 3 in Centrahoma, Oklahoma. 12 feet tall. The rancher is 'building' his cattle using jigsaw puzzle pieces. Installed on the property of Kim and Deward Strong. Deward modeled as the rancher.
+				</p>
+			</div>
+		</div>
+
 		<div class="leftCol">
 			<div class="item large">
 				<a href="images/treasurehunt.jpg" class="image"><img src="images/treasurehunt.jpg" alt="" /></a>
@@ -196,30 +227,19 @@
 					Located on Highway 141, in Granger, Iowa, about 20 miles Northwest of Des Moines. 16 feet tall scene of two kids who have dug up a buried treasure of classic old toys.
 				</p>
 			</div>	
-			<div class="item large">
-				<a href="images/jigsawranch1.jpg" class="image"><img src="images/jigsawranch1.jpg" alt="" /></a>
-				<h3>Jigsaw Ranch</h3>
+			<div class="item xlarge">
+				<a href="images/louismohana.jpg" class="image"><img src="images/louismohana.jpg" alt="" /></a>
+				<h3>Louis Mohana Furniture (2009)</h3>
 				<p>
-					Located off Highway 3 in Centrahoma, Oklahoma. 12 feet tall. The rancher is 'building' his cattle using jigsaw puzzle pieces. Installed on the property of Kim and Deward Strong. Deward modeled as the rancher.
-				</p>
-				<a href="images/jigsawranch2.jpg" class="image"><img src="images/jigsawranch2.jpg" alt="" /></a>				
-				<p>
-					Another section of the Jigsaw Ranch mural in Centrahoma, Oklahoma. The artist is standing next to the 10 foot tall cow, and a calf is standing nearby.
+					Portion of a project for the Louis Mohana Furniture Company of Bourg, Louisiana-2 sided billboard, 14 foot tall.
 				</p>
 			</div>
 		</div>
 
 		<div class="rightCol">
-			<div class="item large">
-				<a href="images/louismohana.jpg" class="image"><img src="images/louismohana.jpg" alt="" /></a>
-				<h3>Louis Mohana Furniture</h3>
-				<p>
-					Portion of a project for the Louis Mohana Furniture Company of Bourg, Louisiana-2 sided billboard, 14 foot tall- 2009
-				</p>
-			</div>
-			<div class="item large">
+			<div class="item xlarge">
 				<a href="images/amelia1.jpg" class="image"><img src="images/amelia1.jpg" alt="" /></a>
-				<h3>Amelia Comes Home</h3>
+				<h3>Amelia Comes Home (2012)</h3>
 				<p>
 					A donation to the community of Atchison, Kansas, this mural, 'Amelia Comes Home' is the artist's lighthearted view of what happened to Amelia Earhart and navigator Fred Noonan on their fateful flight across the Pacific in 1937....they simply ran out of fuel and Amelia landed near her birthplace of Atchison. 38 feet wide by 11 feet tall. Photo by Mike Stec.
 				</p>
@@ -229,10 +249,27 @@
 				</p>
 			</div>
 		</div>
+
+		<div class="centerCol">
+			<div class="item xlarge">
+				<a href="images/roswell1.jpg" class="image"><img src="images/roswell1.jpg" alt="" /></a>
+				<a href="images/roswell2.jpg" class="image"><img src="images/roswell2.jpg" alt="" /></a>
+				<h3>Welcome to Roswell (2013)</h3>
+				<p>
+					Top left: Main scene of 'Welcome to Roswell', located on Highway 285, 6 miles south of Roswell, New Mexico. Community donation mural depicting a local rancher family greeting space visitors. May of 2013
+					<BR>Top right: A scene to the right side of 'Welcome to Roswell'...rancher' son helping aliens jump start their saucer.
+					<BR>Bottom left:The artist using lights for the first time on one of his installations. The 'Welcome to Roswell' flying saucer is adorned with LED lights, powered by a solar panel, lit up 24 hours a day.
+					<BR>Bottom right:John Cerney stands in front of 'Welcome to Roswell'- photo by Yukie Ebara
+				</p>
+				<a href="images/roswell3.jpg" class="image"><img src="images/roswell3.jpg" alt="" /></a>				
+				<a href="images/roswell4.jpg" class="image"><img src="images/roswell4.jpg" alt="" /></a>				
+			</div>	
+		</div>
+
 	<!--end of midwestern div--></div>
 
 
-	<div class="california">
+	<div class="california category">
 		
 	<!--end of california div--></div>
 
@@ -241,10 +278,9 @@
 
 
 
-		  <div class="item largePortrait"><a href="images/vangogh.jpg" class="image"><img src="images/vangogh.jpg" alt="" /></a></div>
+		  <!--div class="item largePortrait"><a href="images/vangogh.jpg" class="image"><img src="images/vangogh.jpg" alt="" /></a></div>
 
 
-		<!-- add Rain for Rent here -->
 
 
 
@@ -256,19 +292,19 @@
 			</p>
 
 			<a href="images/tonys2.jpg" class="image"><img src="images/tonys2.jpg" alt="" /></a>
-			<!--h3>Tony's Friendly Auto Service-1986</h3-->
+
 			<p>
 				Cerney came back in 1986 to touch up the mural, but ended up totally restoring it and adding the cut-out red Corvette with woman, as well as a new service manager on the right, who extended beyond the building. This scene appeared in National Geographic Magazine in 1988.
 			</p>
 
 			<a href="images/tonys3.jpg" class="image"><img src="images/tonys3.jpg" alt="" /></a>
-			<!--h3>Tony's Friendly Auto Service-1991</h3-->
+
 			<p>
 				In this 3rd version of Tony's done in 1991, different cars and more cutout figures start to dominate the scene. The tone is 'friendlier' as well, as there is now no charge for any repair work at Tony's.
 			</p>
 
 			<a href="images/tonys4.jpg" class="image"><img src="images/tonys4.jpg" alt="" /></a>
-			<!--h3>Tony's Friendly Auto Service-1991 (truck detail)</h3-->
+
 			<p>
 				Cerney finally realized a way to make money on this mural by incorporating an old flatbed truck, broken down, carrying cartons of produce from various Salinas Valley growers & shippers. There was a charge to have your carton included, and the mural became technically a billboard now. The artist pays a yearly fee to Caltrans to keep up the mural.
 			</p>
@@ -298,7 +334,7 @@
 			<p>
 				Painted on the Alfred Costa Family barn on Highway 101 about 11 miles north of Salinas. Cerney wanted to paint a black & white mural and the message was to relax and enjoy the journey. He learned a lesson by using enamel based paints and seeing it flake off within 3 years. Cerney had to convince Mr. Costa to let him paint the barn by signing a document that he wouldn't sue if he fell off his ladder.
 			</p>
-		</div>
+		</div-->
 
 
 
@@ -342,13 +378,7 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-			<script src='assets/js/masonry-docs.min.js'></script>
-			<script>
-			var container = document.querySelector('#masonry');
-			var msnry = new Masonry( container, {
-			  columnWidth: 50,
-			  itemSelector: '.item'
-			});
-			</script>
+			<script src="assets/js/show_samples.js"></script>
+
 	</body>
 </html>
