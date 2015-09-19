@@ -1,31 +1,26 @@
 function showSamples(type) {
-	$(".webDev").hide();
-	$(".psill").hide();
-	$(".handD").hide();
-	$(".mobile").hide();
-	$(".FCPX").hide();
+	$(".recent").hide();
+	$(".early").hide();
+	$(".midwestern").hide();
+	$(".california").hide();
     switch(type) {
-	    case "webDev":
-	    	$(".webDev").show();
+	    case "recent":
+	    	$(".recent").show();
 	        break;	        
-	    case "psill":
-			$(".psill").show();
+	    case "early":
+			$(".early").show();
 	        break;	 
-	    case "FCPX":
-	    	$(".FCPX").show();
+	    case "midwestern":
+	    	$(".midwestern").show();
 	        break;	 
-	    case "handD":
-	    	$(".handD").show();
-	        break;	 
-	    case "mobile":
-	    	$(".mobile").show();
+	    case "california":
+	    	$(".california").show();
 	        break;	 
 	    case "all":
-			$(".webDev").show();
-			$(".psill").show();
-			$(".handD").show();
-			$(".FCPX").show();
-			$(".mobile").show();
+			$(".recent").show();
+			$(".early").show();
+			$(".midwestern").show();
+			$(".california").show();
 	        break;	 
     }
 }
