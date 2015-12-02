@@ -16,6 +16,7 @@
 	<style>
 	.fill { 
 		min-height: 100vh;
+		height:100%;
 	}
 
 	.categoryNav {
@@ -28,7 +29,7 @@
 	}
 
 	.leftCol {
-		width: 49%;
+		width: 575px;
 		float:left;
 	}
 
@@ -37,7 +38,7 @@
 	}
 
 	.rightCol {
-		width: 49%;
+		width: 575px;
 		float: right;
 	}
 
@@ -46,7 +47,7 @@
 	}
 
 	.centerCol {
-		width:100%;
+		width:1150px;
 		float:center;
 		clear: both;
 	}
@@ -58,7 +59,7 @@
 	.centerCol a img {
 		margin: auto auto auto auto;
 		padding: 0 10px 0 10px;
-
+		width: 550px;
 	}
 
 	.item.large { 
@@ -67,6 +68,10 @@
 		padding: 20px 20px 20px 20px;
 		margin: 10px 10px 10px 10px;
 		background-color: #F8F8F8;
+	}
+
+	.portrait {
+		width:350px;
 	}
 
 	.item.largePortrait { 
@@ -99,10 +104,11 @@
 		text-align: center;
 	}
 
+
 	</style>
 
 	</head>
-	<body class="no-sidebar">
+	<body class="no-sidebar" style="background-color:white;">
 		<div id="page-wrapper">
 
 			<!-- Header -->
@@ -156,7 +162,6 @@
 							<!--a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a-->
 
 						<div class="row 200%">
-
 							<div class="categoryNav">
 								<a nohref onclick='return showSamples("recent")'>Recent</a>
 								<a nohref onclick='return showSamples("early")'>Early</a>
@@ -166,9 +171,16 @@
 							</div>
 						</div>
 
-
+				
 	<div class="recent category">
 		<div class="leftCol">
+			<div class="item xlarge">
+				<a href="images/selfie.jpg" class="image"><img src="images/selfie.jpg" alt="" /></a>
+				<h3>SELFIE (2015)</h3>
+				<p>
+					A scene that pokes fun at the egocentric nature of social media and the rise of selfies. Currently installed in the Mobile Museum of Art in Mobile, Alabama. Human figures are approximately life size. 
+				</p>
+			</div>	
 			<div class="item xlarge">
 				<a href="images/creepycrawler.jpg" class="image"><img src="images/creepycrawler.jpg" alt="" /></a>
 				<h3>Creepy Crawler (2015)</h3>
@@ -195,11 +207,10 @@
 				</p>
 			</div>
 			<div class="item large">
-				REPLACE WITH COWS AND MOVE TO CALIFORNIA SECTION
-				<a href="images/tahoe.jpg" class="image"><img src="images/tahoe.jpg" alt="" /></a>
-				<h3>Lake Tahoe Historical Society</h3>
+				<a href="images/hathorhamish.JPG" class="image"><img src="images/hathorhamish.JPG" alt="" /></a>
+				<h3>Hathor and Hamish (2014)</h3>
 				<p>
-					Located on Highway 50 in Meyers, CA-2013- 32 feet wide by 14 feet tall. A depiction of the Celio Family during one of their bi-annual cattle drives.
+					Two colorful cows located on the same property as Cerney's "Enjoy the Game" mural in Prunedale, CA. Larger cow stands about 10 feet tall, smaller one about 7. Painting and installation assisted by Lizzie Prader.
 				</p>
 			</div>
 		</div>
@@ -215,11 +226,10 @@
 				<p>
 					Top left: Main scene of 'Welcome to Roswell', located on Highway 285, 6 miles south of Roswell, New Mexico. Community donation mural depicting a local rancher family greeting space visitors. May of 2013
 					<BR>Top right: A scene to the right side of 'Welcome to Roswell'...rancher' son helping aliens jump start their saucer.
-					<BR>Bottom left:The artist using lights for the first time on one of his installations. The 'Welcome to Roswell' flying saucer is adorned with LED lights, powered by a solar panel, lit up 24 hours a day.
-					<BR>Bottom right:John Cerney stands in front of 'Welcome to Roswell'- photo by Yukie Ebara
+					<BR>Bottom: The artist using lights for the first time on one of his installations. The 'Welcome to Roswell' flying saucer is adorned with LED lights, powered by a solar panel, lit up 24 hours a day.
 				</p>
 				<a href="images/roswell3.JPG" class="image"><img src="images/roswell3.JPG" alt="" /></a>	
-				<a href="images/roswell4.JPG" class="image"><img src="images/roswell4.JPG" alt="" /></a>	
+				<!--a href="images/roswell4.JPG" class="image"><img src="images/roswell4.JPG" alt="" /></a-->	
 			</div>	
 		</div>
 
@@ -272,7 +282,7 @@
 				<p>
 					Angry Guy (Jeff Hitchcock). One of 3 twelve foot tall portraits installed alongside the I-80 Freeway in Iowa City, Iowa. On the property of the Harvest Farm and Preserve.
 				</p>
-				<a href="images/emoticons2.jpg" class="image"><img src="images/emoticons2.jpg" alt="" /></a>
+				<a href="images/emoticons2.jpg" class="image portrait"><img src="images/emoticons2.jpg" alt="" /></a>
 				<p>
 					Befuddled Guy (Dave Diamond) The 2nd portrait you see of the 3 faces. Twelve foot tall.
 				</p>
@@ -286,7 +296,7 @@
 				<p>
 					Rice University, Houston, Texas. Titled ' Big Landscape-Big West'. A scene from the late 1890's of an American family taking in a dramatic canyon vista of the Colorado River, from a painting by Thomas Moran. The landscape consists of over 900 masonite panels.
 				</p>
-				<a href="images/rice2.jpg" class="image"><img src="images/rice2.jpg" alt="" /></a>				
+				<a href="images/rice2.jpg" class="image portrait"><img src="images/rice2.jpg" alt="" /></a>				
 				<p>
 					 Photo of John Cerney in front of his show.
 				</p>
@@ -302,7 +312,7 @@
 
 		<div class="rightCol">
 			<div class="item xlarge">
-				<a href="images/alberta1.jpg" class="image"><img src="images/alberta1.jpg" alt="" /></a>
+				<a href="images/alberta1.jpg" class="image portrait"><img src="images/alberta1.jpg" alt="" /></a>
 				<h3>Alberta Beef Producers (2008)</h3>
 				<p>
 					Calgary, Alberta. 22 foot tall cut-out of rancher and daughter.
@@ -367,24 +377,28 @@
 				</p>
 			</div>	
 			<div class="item large">
-				<a href="images/farmerandirrigator.jpg" class="image"><img src="images/farmerandirrigator.jpg" alt="" /></a>
+				<a href="images/farmerandirrigator.jpg" class="image portrait"><img src="images/farmerandirrigator.jpg" alt="" /></a>
 				<h3>Farmer & Irrigator (1995)</h3>
 				<p>The first of the 'giant' figures. 18 feet tall. Highway 68, Salinas, CA. Commissioned by Salinas grower Chris Bunn to pay tribute to the agricultural labor force. Two in a series of 10 total farm figures.</p>
+				<a href="images/farmerandirrigator2.jpg" class="image"><img src="images/farmerandirrigator2.jpg" alt="" /></a>
+				<p>Newer version of the mural above with some color changes.</p>
 			</div>	
 		</div>
 
 		<div class="rightCol">
 			<div class="item xlarge">
-				<a href="images/bigsur1.jpg" class="image"><img src="images/bigsur1.jpg" alt="" /></a>
-				<h3>Big Sur Marathon Mile Markers (year?)</h3>
+				<a href="images/bigsur4.jpg" class="image portrait"><img src="images/bigsur4.jpg" alt="" /></a>
+				<h3>Big Sur Marathon Mile Markers (2010)</h3>
+				<p>Mile 14 marker for the Big Sur Marathon.</p>
+				<a href="images/bigsur1.jpg" class="image portrait"><img src="images/bigsur1.jpg" alt="" /></a>
 				<p>Mile 24 marker for the Big Sur Marathon. Sponsored by Runner's World Magazine. 7 feet tall.</p>
-				<a href="images/bigsur2.jpg" class="image"><img src="images/bigsur2.jpg" alt="" /></a>
+				<a href="images/bigsur2.jpg" class="image portrait"><img src="images/bigsur2.jpg" alt="" /></a>
 				<p>Mile 20 marker for the Big Sur Marathon, run in late April. (hitting the wall)</p>
-				<a href="images/bigsur3.jpg" class="image"><img src="images/bigsur3.jpg" alt="" /></a>
+				<a href="images/bigsur3.jpg" class="image portrait"><img src="images/bigsur3.jpg" alt="" /></a>
 				<p>Detail of Mile 25 marker for the Big Sur Marathon- The Doomsayer</p>				
 			</div>	
 			<div class="item large">
-				<a href="images/rainforrent.jpg" class="image"><img src="images/rainforrent.jpg" alt="" /></a>
+				<a href="images/rainforrent.jpg" class="image portrait"><img src="images/rainforrent.jpg" alt="" /></a>
 				<h3>Rain For Rent (2015)</h3>
 				<p>Mural/sign for the Rain for Rent irrigation company/San Joaquin, CA. 16 feet tall by 12 feet wide.</p>
 			</div>	
@@ -392,7 +406,7 @@
 
 		<div class="centerCol">
 			<div class="item xlarge">
-				<a href="images/canneryrow1.JPG" class="image"><img src="images/canneryrow1.JPG" alt="" /></a>
+				<a href="images/canneryrow1.JPG" ><img src="images/canneryrow1.JPG" style="height:385px; width:305px;" alt="" /></a>
 				<a href="images/canneryrow2.JPG" class="image"><img src="images/canneryrow2.JPG" alt="" /></a>
 				<h3>Cannery Row (year?)</h3>
 				<p>Monterey, CA. A series of 3 scenes installed on a recreation trail that runs alongside Cannery Row in Monterey..
@@ -409,7 +423,7 @@
 
 		<div class="leftCol">
 			<div class="item xlarge">
-				<a href="images/oldwoman1.jpg" class="image"><img src="images/oldwoman1.jpg" alt="" /></a>
+				<a href="images/oldwoman1.jpg" class="image portrait"><img src="images/oldwoman1.jpg" alt="" /></a>
 				<h3>Old Woman of the Mountain (2007-2008)</h3>
 				<p>5 miles south of King City off of Highway 101. Over 500 plywood 'tiles' paintings make up the model and the flowers. A non-commissioned project. Photo shot by Dan Kaufman. More of Dan's work at www.studiokaufman.com</p>
 				<a href="images/oldwoman2.jpg" class="image"><img src="images/oldwoman2.jpg" alt="" /></a>
@@ -442,7 +456,7 @@
 				<p>A pin-up girl themed mural/billboard located on Highway 46, 10 miles East of Paso Robles, CA.</p>
 			</div>	
 			<div class="item large">
-				<a href="images/polopony.jpg" class="image"><img src="images/polopony.jpg" alt="" /></a>
+				<a href="images/polopony.jpg" class="image portrait"><img src="images/polopony.jpg" alt="" /></a>
 				<h3>Polo Pony (2001)</h3>
 				<p>One of two polo ponies and riders that Mr. Kim and Cerney painted for the El Dorado Polo Club in Palm Desert, CA. 16 feet tall, they greet visitors as they enter the grounds.</p>
 			</div>	
@@ -521,7 +535,7 @@
 			</div>
 			<div class="item large">
 				<a href="images/enjoythedrive.jpg" class="image"><img src="images/enjoythedrive.jpg" alt="" /></a>
-				<h3>Enjoy the Drive- 1985</h3>
+				<h3>Enjoy the Drive (1985)</h3>
 				<p>
 					Painted on the Alfred Costa Family barn on Highway 101 about 11 miles north of Salinas. Cerney wanted to paint a black & white mural and the message was to relax and enjoy the journey. He learned a lesson by using enamel based paints and seeing it flake off within 3 years. Cerney had to convince Mr. Costa to let him paint the barn by signing a document that he wouldn't sue if he fell off his ladder.
 				</p>
@@ -592,16 +606,12 @@
 
 
 
+
+
+
+
 </div>
-
-
-
-						</div>
-					
-					</div>
-
-				</div>
-
+</div>
 			<!-- Footer -->
 				<div id="footer">
 					<div class="container">
