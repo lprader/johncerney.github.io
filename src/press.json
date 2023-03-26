@@ -1,0 +1,93 @@
+[
+  {
+    "icon": "ad.jpg",
+    "link": "https://www.architecturaldigest.com/story/marfa-texas-design-travel-guide",
+    "title": "The Design Lover's Guide to Marfa",
+    "publisher": "Architectural Digest",
+    "date": "February 2019"
+  },
+  {
+    "icon": "daily-pilot.png",
+    "link": "https://www.latimes.com/socal/daily-pilot/news/tn-wknd-et-bounty-county-20180802-story.html",
+    "title": "Oversized murals at O.C. Fair pay homage to agricultural icons",
+    "publisher": "Daily Pilot",
+    "date": "July 2018"
+  },
+  {
+    "icon": "oc-register.jpg",
+    "link": "https://www.ocregister.com/2018/07/17/oc-fair-2018-whimsical-highway-artist-john-cerney-creates-huge-cutouts-for-the-fair/",
+    "title": "Whimsical highway artist John Cerney creates huge cutouts for the fair ",
+    "publisher": "The Orange County Register",
+    "date": "July 2018"
+  },
+  {
+    "icon": "carmel-magazine.jpg",
+    "link": "https://carmelmagazine.com/archive/18sp/outstanding-in-his-field",
+    "title": "Outstanding in his Field: John Cerney's Unique Public Art",
+    "publisher": "Carmel Magazine",
+    "date": "May 2018"
+  },
+  {
+    "icon": "press-banner.jpg",
+    "link": "https://pressbanner.com/brookdale-lodge-welcomes-new-james-dean-mural/",
+    "title": "Brookdale Lodge welcomes new James Dean mural",
+    "publisher": "The Press Banner",
+    "date": "March 2018"
+  },
+  {
+    "icon": "al.png",
+    "link": "https://www.al.com/press-releases/2015/10/pnc_presents_larger_than_life.html",
+    "title": "PNC presents larger than life exhibition at Mobile Museum of Art",
+    "publisher": "AL.com",
+    "date": "October 2015"
+  },
+  {
+    "icon": "mercury-news.jpg",
+    "link": "https://www.mercurynews.com/2015/03/11/monterey-winery-adventure-wine-mural-scavenger-hunt/",
+    "title": "Monterey Winery Adventure: Wine mural scavenger hunt",
+    "publisher": "The Mercury News",
+    "date": "March 2015"
+  },
+  {
+    "icon": "the-californian.png",
+    "link": "https://www.thecalifornian.com/story/news/local/2014/07/24/john-cerney-art-thou/13018795/",
+    "title": "John Cerney, where art thou?",
+    "publisher": "The Californian",
+    "date": "July 2014"
+  },
+  {
+    "icon": "ksbw.png",
+    "link": "https://www.ksbw.com/article/salinas-artists-alien-abducted-by-humans-in-roswell-2/1291496",
+    "title": "Salinas artist's alien abducted by humans in Roswell",
+    "publisher": "KSBW",
+    "date": "July 2013"
+  },
+  {
+    "icon": "sf-weekly.png",
+    "link": "https://www.sfweekly.com/archives/the-land-of-giants-an-artists-roadside-attractions-call-attention-to-history/article_be000c8a-7431-5485-8fe2-2896563f80ff.html",
+    "title": "The Land of Giants: An Artist's Roadside Attractions Call Attention to History",
+    "publisher": "SF Weekly",
+    "date": "July 2013"
+  },
+  {
+    "icon": "monterey-herald.png",
+    "link": "https://www.montereyherald.com/2008/02/10/cannery-characters-immortalized-in-mural/",
+    "title": "'Cannery' characters immortalized in mural",
+    "publisher": "Monterey Herald",
+    "date": "February 2008"
+  },
+  {
+    "icon": "ny-times.jpg",
+    "link": "https://www.nytimes.com/2005/02/02/arts/design/bumper-crops-for-the-eye.html",
+    "title": "Bumper Crops for the Eye",
+    "publisher": "The New York Times",
+    "date": "February 2005"
+  },
+  { 
+    "icon": "monterey-county-weekly.png",
+    "link": "https://www.montereycountyweekly.com/news/local_news/salinas-painter-john-cerney-s-art-makes-reality-look-small/article_dc127435-11e7-5f2f-a339-4da6c161919c.html", 
+    "title": "Bigger Than Life", 
+    "publisher": "Monterey County Weekly", 
+    "date": "May 1999"
+  }
+]

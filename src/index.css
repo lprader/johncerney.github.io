@@ -1,0 +1,442 @@
+* { margin: 0; }  
+
+body {
+  margin: 0;
+  font-family: 'Open Sans';
+  font-size: 0.875em;
+  line-height: 2em;
+  --light: white;
+  --dark: #141414;
+  --title-font: 'Oswald', 'Poppins', 'Open Sans';
+}
+
+#app {
+  background-color: var(--light);
+  color: var(--dark);
+}
+
+.centered-content {
+  width: 80%;
+  margin: 0 auto 0 auto;
+}
+
+.page {
+  width: 80%;
+  margin: 0 auto 0 auto;
+  padding: 100px 0 50px 0;
+  min-height: 100vh - 100px;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+h1 {
+  margin: 1em auto 1em auto;
+  font-family: var(--title-font);
+  font-weight: 400;
+  letter-spacing: 3px;
+  font-size: 2.75em;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 0.5em;
+  font-family: var(--title-font);
+  font-weight: 400;
+  letter-spacing: 3px;
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+  font-weight: 600;
+}
+
+h4 {
+  color: gray;
+  margin: 0.5em 0 0.5em 0;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+/* ===================================================================== */
+/* ------------------------------ button ------------------------------- */
+/* ===================================================================== */
+.button {
+  background-color: #efefef;
+  color: var(--dark);
+  border-radius: 30px;
+  border: none;
+  margin: 5px 5px;
+  padding: 7px 15px;
+  text-transform: uppercase;
+  display: inline;
+}
+
+.active {
+  background-color: var(--dark);
+  color: var(--light);
+}
+
+.button-sm {
+  font-size: 0.875em;
+}
+
+.button-lg {
+  font-size: 1.25em;
+}
+
+/* ===================================================================== */
+/* -------------------------- radioButtonList -------------------------- */
+/* ===================================================================== */
+.radio-button-container {
+  width: 100%;
+  text-align: center;
+}
+
+.radio-button-list {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+/* ===================================================================== */
+/* ------------------------------- grid -------------------------------- */
+/* ===================================================================== */
+.row {
+  margin: 0 auto 0 auto;
+  display: grid;
+}
+
+.xs-row {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.sm-row {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.md-row {
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+}
+
+.top-margin {
+  margin-top: 2.5em;
+}
+/* ===================================================================== */
+/* ------------------------------- navBar ------------------------------ */
+/* ===================================================================== */
+#navBar {
+  z-index: 100;
+  margin: 0;
+  height: 100px;
+  width: 100vw;
+  position: fixed;
+  background-color: var(--dark);
+  color: var(--light);
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+}
+
+#navBar h1 {
+  margin: auto auto auto 10%;
+  font-size: 2em;
+  font-family: var(--title-font);
+  font-weight: 400;
+  letter-spacing: 3px;
+}
+
+#navLinks {
+  margin: auto 10% auto auto;
+  display: flex;
+  flex-direction: row; 
+}
+
+#navLinks a {
+  margin: auto auto auto 20px;
+  font-size: 1em;
+  color: var(--light);
+  text-decoration: none;
+}
+
+#navLinks img {
+  margin: auto;
+  height: 30px;
+}
+
+@media screen and (max-width: 900px) {
+  #navBar {
+    display: block;
+  }
+  
+  #navBar h1 {
+    margin: 0.5em auto;
+  }
+  
+  #navLinks {
+    width: 80vw;
+    margin: auto;
+  }
+  
+  #navLinks a {
+    margin: auto auto auto 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #navLinks {
+    width: 100vw;
+    margin: auto;
+  }
+}
+
+/* ===================================================================== */
+/* --------------------------- imageWithText --------------------------- */
+/* ===================================================================== */
+.left-inline-img {
+  margin: 10px 2em 0 0;
+  float: left;
+}
+
+.right-inline-img {
+  margin: 10px 0 0 2em;
+  float: right;
+}
+
+.inline-text {
+  display: inline;
+}
+
+/* ===================================================================== */
+/* ---------------------------- contactCard ---------------------------- */
+/* ===================================================================== */
+.contact-item {
+  margin: 0 2em 3em 2em;
+  text-align: center;
+}
+
+.contact-item p {
+  margin-bottom: 0 !important;
+}
+
+.contact-item img {
+  margin: 1em auto 1em auto;
+  height: 40px;
+}
+
+/* ===================================================================== */
+/* ---------------------------- iconWithText --------------------------- */
+/* ===================================================================== */
+.icon-with-text-container {
+  margin: 0 1em 3em 1em;
+  display: grid;
+  grid-template-columns: 25% 75%;
+  align-items: center;
+}
+
+.icon-with-text-container a {
+  color: var(--dark);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.icon-with-text-container img {
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.09);
+  margin: auto;
+}
+
+.description {
+  margin: auto auto auto 2.5em;
+}
+
+.description p {
+  color: gray;
+  margin-top: 1em;
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* ===================================================================== */
+/* ------------------------------- figure ------------------------------ */
+/* ===================================================================== */
+.figure {
+  margin: 0 auto 3em auto;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.09);
+  text-align: center;
+}
+
+.figure img {
+  width: 100%
+}
+
+.figure p {
+  margin-top: 1em;
+}
+
+/* ===================================================================== */
+/* ------------------------------ Projects ----------------------------- */
+/* ===================================================================== */
+/* .projects-container {
+  margin: 0 auto 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-gap: 30px;
+} */
+
+.project {
+  box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.09);
+  text-align: center;
+}
+
+.project img {
+  width: 100%;
+  margin: 0;
+  transition: transform .3s;
+}
+
+/* TO DO: why is this always 9px taller than img? */
+.project-img-container {
+  /* background-color: green; */
+  overflow: hidden;
+}
+
+.project img:hover {
+  transform: scale(1.1);
+}
+
+.project p {
+  margin: 0 1em 1em 1em;
+}
+
+.video {
+  display: block;
+  width: 100%;
+  min-height: 300px;
+}
+
+/* ===================================================================== */
+/* ------------------------------- Home -------------------------------- */
+/* ===================================================================== */
+/* .homepage {
+  padding: 50px 0 0 0 !important;
+} */
+
+/* .custom-bg {
+  min-width: 1000px !important;
+  overflow: hidden;
+} */
+
+.banner {
+  width: 90%;
+  margin: 450px auto;
+  color: var(--light);
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 5.5em;
+  line-height: 1em;
+  font-family: var(--title-font);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  margin-top: 3em;
+}
+
+.secondary-banner {
+  width: 70%;
+  margin: 30% auto;
+  color: var(--light);
+  text-align: center;
+}
+
+.secondary-banner p {
+  letter-spacing: 3px;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 1em auto 0 auto;
+  width: 100%;
+}
+
+.secondary-banner img {
+  height: 65px;
+  transition: transform .3s;
+}
+
+.secondary-banner img:hover {
+  transform: scale(1.1);
+}
+
+.wrapper { 
+  overflow: hidden;
+  background-color: black;
+}
+
+.left-col {
+  float: left;
+  text-align: center;
+}
+
+.right-col { 
+  height: 487px;
+  background-color: #202020;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.25em;
+  color: var(--light);
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 900px) {
+   .left-col { 
+    float: none;
+    margin-right: 0;
+    width: auto;
+    text-align: center;
+  }
+}
+
+.full-page-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: 100;
+  background-color: #000000cc;
+  color: white;
+  animation: fade-in 0.3s 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.full-page-modal img {
+  width:90%;
+  height:90%; 
+  object-fit: contain;
+}
