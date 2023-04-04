@@ -61,7 +61,7 @@ class Home extends React.Component<{}, HomeState> {
         
         <ParallaxBanner style={{ aspectRatio: '2 / 1', minHeight: "300px", maxHeight: "85vh" }}>
           <ParallaxBannerLayer image='video-still.png' speed={-10} />
-          <ParallaxBannerLayer speed={20}><div className="secondary-banner"><img src="play.png" onClick={() => {this.toggleModal(true)}}/><p>An interview with Cerney at the Mobile Museum of Art following his installation of SELFIE</p></div></ParallaxBannerLayer>
+          <ParallaxBannerLayer speed={20}><div className="secondary-banner"><img src="play.png" alt="play button" onClick={() => {this.toggleModal(true)}}/><p>An interview with Cerney at the Mobile Museum of Art following his installation of SELFIE</p></div></ParallaxBannerLayer>
         </ParallaxBanner>
 
         {(this.state.showModal)? 

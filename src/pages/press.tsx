@@ -22,6 +22,7 @@ class Press extends React.Component {
           {pressList.map((obj, i) => (
             <IconWithText
               key={i} 
+              imgAltText={`${obj.publisher} logo`}
               imgUrl={"press-images/"+obj.icon}
               link={obj.link}
               mainText={obj.title}

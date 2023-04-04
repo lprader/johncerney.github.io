@@ -8,6 +8,7 @@ class Bio extends React.Component {
         <h1>Bio</h1>
         <ImageWithText 
           imgAlign="left"
+          imgAltText="Profile picture of John Cerney"
           imgUrl="bio-images/rice.jpg"
           text={[
             "John Cerney is a Salinas, California native whose artwork can best be described as 'giant cut-out art', ordinarily viewed from the comfort of your automobile. For the sake of a title that people can relate to, he calls himself a muralist, but Cerney found out years ago that painting on a wall was restricting to the effect he was looking for.",
@@ -17,6 +18,7 @@ class Bio extends React.Component {
         />
         <ImageWithText 
           imgAlign="right"
+          imgAltText="Installation of farmer and irrigator mural"
           imgUrl="bio-images/farmerandirrigator.jpg"
           text={[
             "The evolution of the cut-out paintings was slow, with a hand sticking out above a fence line as a start, then trying a complete automobile in front of a wall, and finally to the feeling that the wall was unnecessary and that the cut-outs could stand on their own. The landscape behind the figures became the background.",
@@ -25,6 +27,7 @@ class Bio extends React.Component {
         />
         <ImageWithText 
           imgAlign="left"
+          imgAltText="Cerney at work on a large mural"
           imgUrl="bio-images/babydresser.jpg"
           imgWidth="300px"
           text={[

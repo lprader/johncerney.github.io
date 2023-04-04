@@ -52,31 +52,13 @@ class Projects extends React.Component<{}, ProjectsState> {
 
   onFilterUpdate = (filter:string) => {
    let last = this.state.filter;
-    if (last == filter) return;
+    if (last === filter) return;
     this.setState({ filter });
-    if (filter == "all") {
+    if (filter === "all") {
       this.setState({ projects: projectsList });
-      // let projects = Array.from(document.getElementsByClassName("project") as HTMLCollectionOf<HTMLElement>);
-      // projects.forEach((element) => {
-      //   element.style.display = "block"; 
-      // });
     } else {
-      let all = projectsList;
       let filteredList = projectsList.filter(project => project.tags.includes(filter));
       this.setState({ projects: filteredList })
-      // let toHide;
-      // if (last == "all")
-      //   toHide = Array.from(document.getElementsByClassName("project") as HTMLCollectionOf<HTMLElement>);
-      // else
-      //   toHide = Array.from(document.getElementsByClassName(last) as HTMLCollectionOf<HTMLElement>);
-      // toHide.forEach((element) => {
-      //   element.style.display = "none"; 
-      // })
-
-      // let toShow = Array.from(document.getElementsByClassName(filter) as HTMLCollectionOf<HTMLElement>);
-      // toShow.forEach((element) => {
-      //   element.style.display = "block";
-      // });
     }
   }
 
@@ -95,17 +77,17 @@ class Projects extends React.Component<{}, ProjectsState> {
             {projects.map(obj => {
               return (<div className={obj.tags.join(" ") + " project"}>
                 <LazyLoad height={500} offset={100}>
-                <div className="project-img-container"><img src={"murals/"+obj.main} onClick={() => {this.toggleModal("murals/"+obj.main, true)}} /></div>
+                <div className="project-img-container"><img src={"murals/"+obj.main} alt={obj.title} onClick={() => {this.toggleModal("murals/"+obj.main, true)}} /></div>
                 </LazyLoad>
                 <h3>{obj.title}</h3>
                 <h4>{obj.date}</h4>
                 <p>{obj.description}</p>
                 {(obj.additional)? (obj.additional.map(item => {
                   if (item.img) return (<LazyLoad height={500} offset={100}>
-                    <div className="project-img-container"><img src={"murals/"+item.img} onClick={() => {this.toggleModal("murals/"+item.img, true)}}/></div>
+                    <div className="project-img-container"><img src={"murals/"+item.img} alt={obj.title} onClick={() => {this.toggleModal("murals/"+item.img, true)}}/></div>
                   </LazyLoad>)
                   else if (item.text) return <p>{item.text}</p>
-                  else if (item.video) return <iframe className="video" src={item.video} frameBorder="0" allowFullScreen />
+                  else if (item.video) return <iframe title="Video of project" className="video" src={item.video} frameBorder="0" allowFullScreen />
                 })) : null}
               </div>)
             })}

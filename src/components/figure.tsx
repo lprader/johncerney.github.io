@@ -11,7 +11,7 @@ class Figure extends React.Component<FigureProps, {}> {
     const {imgUrl, mainText, subText} = this.props;
     return (
       <div className="figure">
-        <img src={imgUrl} />
+        <img src={imgUrl} alt={mainText}/>
         <h3>{mainText}</h3>
         <h4>{subText}</h4>
       </div>
