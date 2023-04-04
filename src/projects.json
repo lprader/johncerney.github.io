@@ -1,6 +1,6 @@
 [
   {
-    "main": "Airstream.jpg",
+    "main": "Airstream.webp",
     "title": "Airstream",
     "date": 2023,
     "description": "One of several pieces for an upcoming show at the Triton Museum of Art in Santa Clara, CA. Opening in early September, 2023 and running until early 2024. 14 feet tall when completed.",
@@ -8,7 +8,7 @@
     "location": "Santa Clara, CA"
   },
   {
-    "main": "Marilyn-Monroe-2022.JPG",
+    "main": "Marilyn-Monroe-2022.webp",
     "title": "Marilyn Monroe",
     "date": 2022,
     "description": "Work in progress on a Marilyn Monroe cutout painting for a local frame shop in Salinas, CA. She will accompany Elvis Presley on a wall near the entrance to the shop. 8 feet tall.",
@@ -16,7 +16,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Sunflowers-for-Vincent.jpg",
+    "main": "Sunflowers-for-Vincent.webp",
     "title": "Sunflowers for Vincent",
     "date": 2022,
     "description": "A donated piece for the Triton Museum of Art in Santa Clara, CA. A young peasant woman has just cut some fresh sunflowers and has come upon one of Van Gogh's iconic sunflower paintings. The sunflowers were created out of 88 individual plywood panels. 16 feet tall.",
@@ -24,7 +24,7 @@
     "location": "Santa Clara, CA"
   },
   {
-    "main": "James-Dean-Marion.jpg",
+    "main": "James-Dean-Marion.webp",
     "title": "James Dean",
     "date": 2022,
     "description": "Mural placed at the entrance to Marion, Indiana, where Dean was born. He leads you to his birth site memorial down the street. The home where he was born has been torn down, but a memorial created by Dean historian David Loehr stands at that spot. 12 feet tall.",
@@ -32,7 +32,7 @@
     "location": "Marion, IN"
   },
   {
-    "main": "James-Dean-Fairmount.JPG",
+    "main": "James-Dean-Fairmount.webp",
     "title": "James Dean",
     "date": 2022,
     "description": "The artist standing next to his James Dean installation in Fairmount, Indiana, where the actor grew up. 14 feet tall.",
@@ -40,18 +40,18 @@
     "location": "Fairmount, IN"
   },
   {
-    "main": "Aretha-Franklin.JPG",
+    "main": "Aretha-Franklin.webp",
     "title": "Aretha Franklin & Justin Timberlake",
     "date": 2022,
     "description": "Installed on the grounds of the Lowenstein Mansion near downtown, Memphis, TN. Part of a series of musical icons that are connected with Memphis in some way. 12 feet tall.",
     "tags": ["recent"],
     "location": "Memphis, TN",
     "additional": [
-      { "img": "Justin-Timberlake.JPG" }
+      { "img": "Justin-Timberlake.webp" }
     ]
   },
   {
-    "main": "The-Artist.JPG",
+    "main": "The-Artist.webp",
     "title": "The Artist",
     "date": 2022,
     "description": "Highway 172 in Ignacio, CO. Donated to the community and Blackbelly Arts. The artist is taking his paint-by-number canvas seriously. 13 feet tall.",
@@ -59,30 +59,30 @@
     "location": "Ignacio, CO"
   },
   {
-    "main": "Everly-Brothers.jpg",
+    "main": "Everly-Brothers.webp",
     "title": "Everly Brothers Tribute",
     "date": 2022,
     "description": "Highway 2 outside of Shenandoah, Iowa. The brothers grew up in this small southwestern town in Iowa, playing radio gigs with their parents, both also musicians. 18 feet tall.",
     "tags": ["midwestern", "recent"],
     "location": "Shenandoah, IA",
     "additional": [
-      { "img": "Everly-Brothers-detail.jpg" }
+      { "img": "Everly-Brothers-detail.webp" }
     ]
   },
   {
-    "main": "Awe-Goats.jpg",
+    "main": "Awe-Goats.webp",
     "title": "Awe Goats",
     "date": 2022,
     "description": "Three giant Nigerian Dwarf Baby goats on the Beekman 1802 Farm outside of Sharon Springs, NY. Beekman 1802 is a skin and beauty care company that uses goats milk in many of their products. 18 feet tall.",
     "tags": ["recent"],
     "location": "Sharon Springs, NY",
     "additional": [
-      { "img": "Awe-Goats-2.JPG" }, 
-      { "img": "Awe-Goats-3.JPG" }
+      { "img": "Awe-Goats-2.webp" }, 
+      { "img": "Awe-Goats-3.webp" }
     ]
   },
   {
-    "main": "Birds-Mural.png",
+    "main": "Birds-Mural.webp",
     "title": "Birds Mural",
     "date": 2021,
     "description": "Clarinda, Iowa. A donated installation to the community, just a few miles away from the Glenn Miller mural installed in July of 2021. The artist wanted to play with the movement of birds taking off or landing, created in mostly the square plywood panel method. Great Blue Heron image courtesy of Sharon Mammoser, and the Black Crowned Night Heron image shot by Michael Wartenberg. 30 feet wide by 11 feet tall.",
@@ -90,7 +90,7 @@
     "location": "Clarinda, IA"
   },
   {
-    "main": "James-Dean-Gallery.jpg",
+    "main": "James-Dean-Gallery.webp",
     "title": "James Dean",
     "date": 2021,
     "description": "Fairmount, Indiana. An 11 foot tall cutout of Dean installed on the lawn of the James Dean Gallery, located in the town where Dean grew up.",
@@ -98,7 +98,7 @@
     "location": "Fairmount, IN"
   },
   {
-    "main": "Glenn-Miller-Tribute.jpg",
+    "main": "Glenn-Miller-Tribute.webp",
     "title": "Tribute Mural of Glenn Miller",
     "date": 2021,
     "description": "Clarinda, Iowa. 16 foot tall mural of Big Band leader Glenn Miller, installed on the outskirts of the Iowa town where he was born. A commission by the community. Two members of the Clarinda High School Marching Band in the foreground.",
@@ -106,7 +106,7 @@
     "location": "Clarinda, IA"
   },
   {
-    "main": "Tina-Turner-and-Elvis-Presley.jpg",
+    "main": "Tina-Turner-and-Elvis-Presley.webp",
     "title": "Tina Turner & Elvis Presley",
     "date": 2021,
     "description": "Memphis, TN. Commissioned by a client who is buying up old buildings in Memphis and restoring them as well as having the artist add some 'flavor' by creating giant cutouts of musical icons connected to the area. The artist will likely come back soon and bring along several more giant cutouts. 18 feet tall on top of a 4 foot stage built just for the paintings.",
@@ -114,7 +114,7 @@
     "location": "Memphis, TN"
   },
   {
-    "main": "Popsicles.JPG",
+    "main": "Popsicles.webp",
     "title": "Popsicles",
     "date": 2021,
     "description": "An installation on loan to the city of Palm Springs, CA. The artist wanted to create something bright and bold that would contrast greatly with a desert backdrop. This mural could be up for a few years before the artist retrieves it and looks for a new home. 12 feet tall.",
@@ -122,18 +122,18 @@
     "location": "Palm Springs, CA"
   },
   {
-    "main": "Terranova-Ranch.jpg",
+    "main": "Terranova-Ranch.webp",
     "title": "Terranova Ranch",
     "date": 2020,
     "description": "Two employees of Terranova Ranch in Helm, CA wearing masks to protect against COVID-19. Both 12 feet tall.",
     "tags": ["california"],
     "location": "Helm, CA",
     "additional": [
-      { "img": "Terranova-Ranch-2.jpg" }
+      { "img": "Terranova-Ranch-2.webp" }
     ]
   },
   {
-    "main": "Neil-Armstrong.jpg",
+    "main": "Neil-Armstrong.webp",
     "title": "Neil Armstrong",
     "date": 2020,
     "description": "Art installation honoring the late astronaut Neil Armstrong, the first human to walk on the moon. A donation to the city of Wapakoneta, Ohio, where Armstrong grew up. The moon is made up of 270 plywood panels and stands 16 feet tall. Armstrong is 12 feet tall. Located 4 miles east of Wapakoneta on Highway 33. The mural is dedicated to the late Dr. Michael Belton, a brilliant astrophysicist and friend.",
@@ -141,41 +141,41 @@
     "location": "Wapakoneta, OH"
   },
   {
-    "main": "Muffler-Men.jpg",
+    "main": "Muffler-Men.webp",
     "title": "Muffler Men",
     "date": 2019,
     "description": "Calumet, Oklahoma - A donated mural honoring 'Muffler Men', those giant fiberglass sculptures created in the 1960's that sat in front of businesses throughout the United States. They normally held a tire, a muffler, or in the case of Paul Bunyan, an axe. The Uniroyal Gal held a tire in her left hand. I collaborated with artist Scott Farmer to create the dancing muffler man, shown dancing with me! All 18 feet tall and installed on historic Route 66 about 35 miles west of Oklahoma City.",
     "tags": ["midwestern"],
     "location": "Calumet, OK",
     "additional": [
-      { "img": "Muffler-Men-2.jpg" }, 
-      { "img": "Muffler-Men-3.jpg" }
+      { "img": "Muffler-Men-2.webp" }, 
+      { "img": "Muffler-Men-3.webp" }
     ]
   },
   {
-    "main": "Spreckels-Cop-Kids.jpg",
+    "main": "Spreckels-Cop-Kids.webp",
     "title": "Spreckels Cop Kids",
     "date": 2019,
     "description": "A commission by the Spreckels Foundation meant to slow down the speeding traffic that is a constant problem for the tiny suburb of Salinas, CA. 12 feet tall.",
     "tags": ["california"],
     "location": "Spreckels, CA",
     "additional": [
-      { "img": "Spreckels-Cop-Kids-2.jpg" }
+      { "img": "Spreckels-Cop-Kids-2.webp" }
     ]
   },
   {
-    "main": "Schnepf-Farms.jpg",
+    "main": "Schnepf-Farms.webp",
     "title": "Schnepf Farms",
     "date": 2019,
     "description": "Schnepf Farms of Queen Creek, AZ- Two cutout paintings installed on their farm. An 18 foot tall painting of a mom and daughter with a basket of peaches, and a 16 foot tall painting of a little girl holding a pumpkin.",
     "tags": [],
     "location": "Queen Creek, AZ",
     "additional": [
-      { "img": "Schnepf-Farms-2.jpg" }
+      { "img": "Schnepf-Farms-2.webp" }
     ]
   },
   {
-    "main": "Suncoast-Farms.jpg",
+    "main": "Suncoast-Farms.webp",
     "title": "Suncoast Farms",
     "date": 2019,
     "description": "Suncoast Farms in Hollister, CA- A 1/3 scale old barn using scrap pieces of plywood (10 feet tall) It sits in a field that is visible from the dining area of the bakery/restaurant on the farm.",
@@ -183,7 +183,7 @@
     "location": "Hollister, CA"
   },
   {
-    "main": "United-Way-of-Monterey-County.jpg",
+    "main": "United-Way-of-Monterey-County.webp",
     "title": "United Way of Monterey County",
     "date": 2019,
     "description": "14 foot tall painting of a small boy wearing a cap and gown and carrying a backpack...a program offered by United Way. On a busy intersection in Salinas, CA.",
@@ -191,7 +191,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Cannery-Row-Historical-Mural.jpg",
+    "main": "Cannery-Row-Historical-Mural.webp",
     "title": "Cannery Row Historical Mural",
     "date": 2019,
     "description": "Commissioned by the Cannery Row Business Improvement District, attached to a wall along the Rec Trail off of Cannery Row in Monterey, CA. The 4th mural the artist has completed along the Rec Trail, this one shows cannery workers from around 1910 loading crates of sardines onto a Southern Pacific rail car.",
@@ -199,7 +199,7 @@
     "location": "Monterey, CA"
   },
   {
-    "main": "Backyard-Salinas-Valley-Scene.jpg",
+    "main": "Backyard-Salinas-Valley-Scene.webp",
     "title": "Backyard Salinas Valley Scene",
     "date": 2019,
     "description": "A private commission by a family in Salinas, CA. 20 feet wide by 8 feet tall, done in the artist's square panel method.",
@@ -207,7 +207,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Giant-Lexus.jpg",
+    "main": "Giant-Lexus.webp",
     "title": "Giant Lexus",
     "date": 2019,
     "description": "A new giant race car on the hillside of the Laguna Seca Race Track in Monterey, CA. Weather-Tech is the \"main\" sponsor, but Lexus signed on as well and commissioned this 12 foot tall by 26 foot wide race car.",
@@ -215,7 +215,7 @@
     "location": "Monterey, CA"
   },
   {
-    "main": "Ralph-and-Big-Willie.jpg",
+    "main": "Ralph-and-Big-Willie.webp",
     "title": "Ralph and Big Willie",
     "date": 2019,
     "description": "Ralph and Big Willie, for Wish Farms in Plant City, Florida. These 20 feet tall cutouts depict two former employees of the Wish Farm strawberry company, established in 1922. They sit alongside Highway 4 in front of the in-progress construction of a new warehouse and offices of Wish Farms.",
@@ -223,7 +223,7 @@
     "location": "Plant City, FL"
   },
   {
-    "main": "Mural-on-Highway-68.jpg",
+    "main": "Mural-on-Highway-68.webp",
     "title": "Mural on Highway 68",
     "date": 2019,
     "description": "Mural/sign on Highway 68 in Salinas, CA. It's located just before you enter Salinas, on the south side of the highway. Commissioned by a local farmer who wanted to remind locals and tourists of the rich farming heritage in the Salinas Valley. 22 feet wide by 12 feet tall.",
@@ -231,7 +231,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Giant-Marfa-update.jpg",
+    "main": "Giant-Marfa-update.webp",
     "title": "Giant Marfa",
     "date": 2019,
     "description": "Elizabeth Taylor was added to the scene in January, completing the installation. Highway 90, 5 miles west of Marfa, Texas.",
@@ -239,7 +239,7 @@
     "location": "Marfa, TX"
   },
   {
-    "main": "Giant-Marfa.jpg",
+    "main": "Giant-Marfa.webp",
     "title": "Giant Marfa",
     "date": 2018,
     "description": "A donation to the city of Marfa, Texas, the mural honors the movie 'Giant' (1956), which was partially filmed in this small west Texas town. The mural is a collaboration with singer/songwriter/musician Michael Nesmith who made possible the addition of an audio element to the mural installation. The sounds of Nesmith and his First National Band Redux play continually on a loop from hidden speakers near the automobile in the scene.",
@@ -247,7 +247,7 @@
     "location": "Marfa, TX"
   },
   {
-    "main": "Ferrari.jpg",
+    "main": "Ferrari.webp",
     "title": "Ferrari",
     "date": 2018,
     "description": "Ferrari race car placed on the hillside at the Laguna Seca race track, off of Highway 68 in Monterey, CA. 32 feet wide by 10 feet tall. WeatherTech is the new track sponsor at Laguna Seca, and they also sponsor this Ferrari.",
@@ -255,7 +255,7 @@
     "location": "Monterey, CA"
   },
   {
-    "main": "CA-Rodeo-Poster.jpg",
+    "main": "CA-Rodeo-Poster.webp",
     "title": "California Rodeo Poster",
     "date": 2018,
     "description": "The image for the 2019 California Rodeo poster. Andy Burrell is featured with his barrel, and has been an active participant with the rodeo for many years. 15 feet tall by 12 feet wide. The cutout is attached to a wall at the Salinas Sports Complex.",
@@ -263,7 +263,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "James-Dean-Brookdale.jpg",
+    "main": "James-Dean-Brookdale.webp",
     "title": "James Dean",
     "date": 2018,
     "description": "Large cut-out painting (20 feet) of James Dean attached to the wall of the renovated Brookdale Lodge in Brookdale, CA. A previous mural of Dean was painted on the wall for several years but was painted over during the renovation. Located off of Highway 9 in the Santa Cruz mountains.",
@@ -271,7 +271,7 @@
     "location": "Brookdale, CA"
   },
   {
-    "main": "Anaïs-Giving-Life.jpg",
+    "main": "Anaïs-Giving-Life.webp",
     "title": "Anaïs Giving Life",
     "date": 2018,
     "description": "Standing with the artist are the couple (Jessica and Jerome) who commissioned the 14 foot tall painting of their daughter Anaïs in the background. A tree was planted shortly after the installation, which she will constantly be watering. Located off of Carmel Valley Road in Carmel Valley, CA. The Kents own Jerome's Market, which is a part of the shopping center.",
@@ -279,7 +279,7 @@
     "location": "Carmel Valley, CA"
   },
   {
-    "main": "Orange-County-Fair.jpg",
+    "main": "Orange-County-Fair.webp",
     "title": "Orange County Fair Murals",
     "date": 2018,
     "description": "One of three murals commissioned by the Orange County Fair in 2018. The installations are located at the three \"main\" entrances to the fairground in Costa Mesa, CA. 14 feet tall. This one represents Neff Ranch, orange growers in Orange County.",
@@ -287,7 +287,7 @@
     "location": "Costa Mesa, CA"
   },
   {
-    "main": "George-Harrison.jpg",
+    "main": "George-Harrison.webp",
     "title": "George Comes to Benton",
     "date": 2017,
     "description": "A donated mural to the city of Benton, Illinois. The mural commemorates the first visit by a Beatle to the United States, George Harrison, in 1963. George and his brother Pete came to visit their sister Louise and her family in Benton, and was virtually unknown at the time by Americans. The Beatles would make a big splash the following year on the Ed Sullivan Show. George stands 16 feet tall, and the girls 8 feet tall. Located off of Highway 57 just north of Benton.",
@@ -298,7 +298,7 @@
     ]
   },
   {
-    "main": "Mazda.jpg",
+    "main": "Mazda.webp",
     "title": "Mazda Race Car",
     "date": 2017,
     "description": "Historic 787B Mazda race car, 32 feet wide by 10 feet tall. Located on a hillside at the entry to Mazda Laguna Seca Race Track, off of Highway 68 in Monterey, CA.",
@@ -306,7 +306,7 @@
     "location": "Monterey, CA"
   },
   {
-    "main": "Wayne-Rainey.jpg",
+    "main": "Wayne-Rainey.webp",
     "title": "Wayne Rainey on his Yamaha",
     "date": 2017,
     "description": "Located off of Highway 68 at the entry to Laguna Seca Racetrack in Monterey, this commissioned project honors the multi world champion racer. 12 feet tall. Artist standing next to the bike.",
@@ -314,7 +314,7 @@
     "location": "Monterey, CA"
   },
   {
-    "main": "Andy-Boy.jpg",
+    "main": "Andy-Boy.webp",
     "title": "Andy Boy Pushing Cart with Vegetables ",
     "date": 2017,
     "description": "The iconic logo for the D'Arrigo Brothers Produce Company is central in this mural that stands near the companies facilities in Salinas, CA. Andy stands 12 feet tall.",
@@ -322,7 +322,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "CA-Rodeo-Poster-2017.jpg",
+    "main": "CA-Rodeo-Poster-2017.webp",
     "title": "California Rodeo Poster",
     "date": 2017,
     "description": "Rodeo scene of bucking bronc with rider, and fans, 25 feet wide by 14 feet tall. The scene will be the central image for the 2018 California Rodeo Poster. Salinas, CA.",
@@ -330,7 +330,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "This-Is-It-Barn.jpg",
+    "main": "This-Is-It-Barn.webp",
     "title": "Tribute Mural of Eddie Pisoni and Saw Breschini ",
     "date": 2016,
     "description": "Over 1,100 painted plywood panels attached to a barn on the Breschini Ranch off of Highway 101 in Gonzales, CA. ",
@@ -341,18 +341,18 @@
     ]
   },
   {
-    "main": "Cowboy-Ruckus.jpg",
+    "main": "Cowboy-Ruckus.webp",
     "title": "Cowboy Ruckus",
     "date": 2016,
     "description": "An installation on Highway 285, 73 miles north of Roswell, New Mexico. 18 feet tall. A non-commissioned piece showing two Cowboys arguing with one another, with cars driving in the middle of the heated exchange. The Cowboys are two-sided so that both directions of traffic can see the argument.",
     "tags": [],
     "location": "Roswell, NM",
     "additional": [
-      { "img": "Cowboy-Ruckus-2.jpg" }
+      { "img": "Cowboy-Ruckus-2.webp" }
     ]
   },
   {
-    "main": "Nunes-Company-Sign.jpg",
+    "main": "Nunes-Company-Sign.webp",
     "title": "Nunes Company Sign",
     "date": 2016,
     "description": "This is the 4th billboard for the Nunes Company on this vintage barn on Highway 68, a couple of miles west of Salinas, CA. The little girl can't wait to rip open the bag of organic romaine lettuce. 26 feet wide by 16 feet tall, painted on plywood panels.",
@@ -360,7 +360,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "SELFIE.jpg",
+    "main": "SELFIE.webp",
     "title": "SELFIE",
     "date": 2015,
     "description": "A scene that pokes fun at the egocentric nature of social media and the rise of selfies. Originally installed in the Mobile Museum of Art in Mobile, Alabama. Now installed in Langan Park, just outside of the museum. Human figures are approximately life size.",
@@ -368,7 +368,7 @@
     "location": "Mobile, AL"
   },
   {
-    "main": "Creepy-Crawler.jpg",
+    "main": "Creepy-Crawler.webp",
     "title": "Creepy Crawler",
     "date": 2015,
     "description": "Whimsical scene located 9 miles east of Miles City, Montana off Highway 94. Baby is 16 feet tall and is made of 175 painted plywood panels. The rhino, velociraptor, and bison are all life-size. Sponsored by the Art Club of Custer County District High School and installed on the Muggli Brothers ranch.",
@@ -376,18 +376,18 @@
     "location": "Miles City, MT"
   },
   {
-    "main": "Baby-and-Dresser.jpg",
+    "main": "Baby-and-Dresser.webp",
     "title": "Baby and Dresser/Louis Mohana Furniture",
     "date": 2015,
     "description": "Giant dresser and baby installed alongside the drive up to Louis Mohana Furniture in Bourg, Louisiana. 12 feet tall by 16 feet wide.",
     "tags": [],
     "location": "Bourg, LA",
     "additional": [
-      { "img": "Baby-and-Dresser-detail.jpg" }
+      { "img": "Baby-and-Dresser-detail.webp" }
     ]
   },
   {
-    "main": "Rain-for-Rent.jpg",
+    "main": "Rain-for-Rent.webp",
     "title": "Rain For Rent",
     "date": 2015,
     "description": "Mural/sign for the Rain for Rent irrigation company/San Joaquin, CA. 16 feet tall by 12 feet wide.",
@@ -395,7 +395,7 @@
     "location": "San Joaquin, CA"
   },
   {
-    "main": "Siemer-Auto.jpg",
+    "main": "Siemer-Auto.webp",
     "title": "Siemer Auto",
     "date": 2014,
     "description": "Friendly Service attendant and old Texaco gas station mural created for Siemer Auto in Fremont, Nebraska. 24 feet wide by 10 feet tall. Nostalgic scene reflecting the quality service and vehicles at Siemer Auto.",
@@ -403,7 +403,7 @@
     "location": "Fremont, NE"
   },
   {
-    "main": "Hathor-and-Hamish.jpg",
+    "main": "Hathor-and-Hamish.webp",
     "title": "Hathor and Hamish",
     "date": 2014,
     "description": "Two colorful cows located on the same property as Cerney's \"Enjoy the Game\" mural in Prunedale, CA. Larger cow stands about 10 feet tall, smaller one about 7. Painting and installation assisted by Lizzie Prader.",
@@ -411,21 +411,21 @@
     "location": "Prunedale, CA"
   },
   {
-    "main": "Welcome-to-Roswell.jpg",
+    "main": "Welcome-to-Roswell.webp",
     "title": "Welcome to Roswell",
     "date": 2013,
     "description": "Photo above is of the main scene of 'Welcome to Roswell', located on Highway 285, 6 miles south of Roswell, New Mexico. Community donation mural depicting a local rancher family greeting space visitors.",
     "tags": [],
     "location": "Roswell, NM",
     "additional": [
-      { "img": "Welcome-to-Roswell-detail.jpg" }, 
+      { "img": "Welcome-to-Roswell-detail.webp" }, 
       { "text": "A scene to the right side of 'Welcome to Roswell'...rancher's son helping aliens jump start their saucer." }, 
-      { "img": "Welcome-to-Roswell-detail-2.jpg" }, 
+      { "img": "Welcome-to-Roswell-detail-2.webp" }, 
       { "text": "The artist using lights for the first time on one of his installations. The 'Welcome to Roswell' flying saucer is adorned with LED lights, powered by a solar panel, lit up 24 hours a day." }
     ]
   },
   {
-    "main": "Lake-Tahoe-Historical-Society.jpg",
+    "main": "Lake-Tahoe-Historical-Society.webp",
     "title": "Lake Tahoe Historical Society",
     "date": 2013,
     "description": "Located on Highway 50 in Meyers, CA. 32 feet wide by 14 feet tall. A depiction of the Celio Family during one of their bi-annual cattle drives.",
@@ -433,19 +433,19 @@
     "location": "Meyers, CA"
   },
   {
-    "main": "Amelia-Comes-Home.jpg",
+    "main": "Amelia-Comes-Home.webp",
     "title": "Amelia Comes Home",
     "date": 2012,
     "description": "A donation to the community of Atchison, Kansas. This mural, 'Amelia Comes Home' is the artist's lighthearted view of what happened to Amelia Earhart and navigator Fred Noonan on their fateful flight across the Pacific in 1937....they simply ran out of fuel and Amelia landed near her birthplace of Atchison. 38 feet wide by 11 feet tall. Photo by Mike Stec.",
     "tags": ["midwestern"],
     "location": "Atchison, KS",
     "additional": [
-      { "img": "Amelia-Comes-Home-detail.jpg" }, 
+      { "img": "Amelia-Comes-Home-detail.webp" }, 
       { "text": "Detail of 'Amelia Comes Home' mural, installed outside of Atchison, KS (birthplace of Amelia Earhart) Non-commissioned project, a donation to the community....the artist's version of what happened to Amelia and her navigator Fred Noonan on their fateful flight over the Pacific in 1937. Slightly larger than life-size." }
     ]
   },
   {
-    "main": "Giant-Corn-Farmers.jpg",
+    "main": "Giant-Corn-Farmers.webp",
     "title": "Giant Corn Farmers",
     "date": 2012,
     "description": "Commisioned by a Minnesota ad agency, these two 18 foot tall farmers are installed off Highway 35 near Ames, Iowa. They are meant to draw attention to a regional farm show.",
@@ -453,7 +453,7 @@
     "location": "Ames, IA"
   },
   {
-    "main": "Foxy-Mural.jpg",
+    "main": "Foxy-Mural.webp",
     "title": "Foxy Mural",
     "date": 2012,
     "description": "Newest version of the Foxy mural, on Highway 68 just outside of Salinas, CA. Tom Nunes Sr. stands in front of a Salinas Valley scene. The background is made up of over 400 plywood panels. The mural measures 17 feet tall by 26 feet wide. Background photo shot by Kirk Kennedy.",
@@ -461,34 +461,34 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Jigsaw-Ranch.jpg",
+    "main": "Jigsaw-Ranch.webp",
     "title": "Jigsaw Ranch",
     "date": 2011,
     "description": "Located off Highway 3 in Centrahoma, Oklahoma. 12 feet tall. The rancher is 'building' his cattle using jigsaw puzzle pieces. Installed on the property of Kim and Deward Strong. Deward modeled as the rancher.",
     "tags": [],
     "location": "Centrahoma, OK",
     "additional": [
-      { "img": "Jigsaw-Ranch-2.jpg" }
+      { "img": "Jigsaw-Ranch-2.webp" }
     ]
   },
   {
-    "main": "Big-Sur-14.jpg",
+    "main": "Big-Sur-14.webp",
     "title": "Big Sur Marathon Mile Markers",
     "date": 2010,
     "description": "Mile 14 marker for the Big Sur Marathon.",
     "tags": ["california"],
     "location": "Big Sur, CA",
     "additional": [
-      { "img": "Big-Sur-24.jpg" },
+      { "img": "Big-Sur-24.webp" },
       { "text": "Detail of Mile 24 marker - Sponsored by Runner's World Magazine. 7 feet tall." }, 
-      { "img": "Big-Sur-20.jpg" },
+      { "img": "Big-Sur-20.webp" },
       { "text": "Detail of Mile 20 marker - Hitting the wall." },
-      { "img": "Big-Sur-25.jpg" },
+      { "img": "Big-Sur-25.webp" },
       { "text": "Detail of Mile 25 marker - The Doomsayer." }
     ]
   },
   {
-    "main": "Harvey-House-Train.jpg",
+    "main": "Harvey-House-Train.webp",
     "title": "Harvey House Train",
     "date": 2010,
     "description": "A re-enactment of the first train that arrived in Salinas in 1872.....it actually only came off the tracks. Installed in the backyard of the Harvey House next to the train station. 18 feet tall.",
@@ -496,21 +496,21 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Emoticons-Jeff.jpg",
+    "main": "Emoticons-Jeff.webp",
     "title": "Emoticons",
     "date": 2010,
     "description": "Angry Guy (Jeff Hitchcock). One of 3 twelve foot tall portraits installed alongside the I-80 Freeway in Iowa City, Iowa. On the property of the Harvest Farm and Preserve.",
     "tags": ["midwestern"],
     "location": "Iowa City, IA",
     "additional": [
-      { "img": "Emoticons-Dave.jpg" },
+      { "img": "Emoticons-Dave.webp" },
       { "text": "Befuddled Guy (Dave Diamond) The 2nd portrait you see of the 3 faces. Twelve foot tall." },
-      { "img": "Emoticons-Liz.jpg" },
+      { "img": "Emoticons-Liz.webp" },
       { "text": "Disappointed Gal (Liz Andrus) The 3rd portrait you see of the 3 twelve foot tall faces. Installed alongside the I-80 Freeway in Iowa City, Iowa. Created using the artist's method of randomly selecting small squares of the photo image onto 12 inch square plywood panels." }
     ]
   },
   {
-    "main": "Louis-Mohana-Furniture.jpg",
+    "main": "Louis-Mohana-Furniture.webp",
     "title": "Louis Mohana Furniture",
     "date": 2009,
     "description": "Portion of a project for the Louis Mohana Furniture Company of Bourg, Louisiana-2 sided billboard, 14 foot tall.",
@@ -518,48 +518,48 @@
     "location": "Bourg, LA"
   },
   {
-    "main": "Alberta-Beef-Producers.jpg",
+    "main": "Alberta-Beef-Producers.webp",
     "title": "Alberta Beef Producers",
     "date": 2008,
     "description": "Calgary, Alberta. 22 foot tall cut-out of rancher and daughter.",
     "tags": [],
     "location": "Calgary, Alberta",
     "additional": [
-      { "img": "Alberta-Beef-Producers-2.jpg" },
+      { "img": "Alberta-Beef-Producers-2.webp" },
       { "text": "22 foot tall rancher and horse, with artist at base." }
     ]
   },
   {
-    "main": "Cannery-Row.jpg",
+    "main": "Cannery-Row.webp",
     "title": "Cannery Row",
     "date": 2008,
     "description": "Monterey, CA. A series of 3 scenes installed on a recreation trail that runs alongside Cannery Row in Monterey. The photo above is of a 12 foot tall cut-out showing cannery workers from the 1930's.",
     "tags": ["california"],
     "location": "Monterey, CA",
     "additional": [
-      { "img": "Cannery-Row-2.jpg" },
+      { "img": "Cannery-Row-2.webp" },
       { "text": "10 feet by 18 feet. Depicts cannery workers from the 1950's." },
-      { "img": "Cannery-Row-3.jpg" },
+      { "img": "Cannery-Row-3.webp" },
       { "text": "The last of the 3 scenes of cannery workers, with John Cerney applying finishing touches." }
 
     ]
   },
   {
-    "main": "Old-Woman-of-the-Mountain.jpg",
+    "main": "Old-Woman-of-the-Mountain.webp",
     "title": "Old Woman of the Mountain",
     "date": 2008,
     "description": "5 miles south of King City off of Highway 101. Over 500 plywood tiles paintings make up the model and the flowers. A non-commissioned project. Photo shot by Dan Kaufman. More of Dan's work at studiokaufman.com",
     "tags": ["california"],
     "location": "King City, CA",
     "additional": [
-      { "img": "Old-Woman-of-the-Mountain-detail.jpg" },
+      { "img": "Old-Woman-of-the-Mountain-detail.webp" },
       { "text": "Installation detail." },
-      { "img": "Old-Woman-of-the-Mountain-detail-2.jpg" },
+      { "img": "Old-Woman-of-the-Mountain-detail-2.webp" },
       { "text": "Side view showing the two structures. 550 painted MDO panels screwed onto one inch plywood base." }
     ]
   },
   {
-    "main": "Treasure-Hunt.jpg",
+    "main": "Treasure-Hunt.webp",
     "title": "Treasure Hunt",
     "date": 2007,
     "description": "Located on Highway 141, in Granger, Iowa, about 20 miles Northwest of Des Moines. 16 feet tall scene of two kids who have dug up a buried treasure of classic old toys.",
@@ -567,19 +567,19 @@
     "location": "Granger, IA"
   },
   {
-    "main": "Rice-Gallery-Show.jpg",
+    "main": "Rice-Gallery-Show.webp",
     "title": "Rice Gallery Show",
     "date": 2006,
     "description": "Rice University, Houston, Texas. titled 'Big Landscape-Big West'. A scene from the late 1890's of an American family taking in a dramatic canyon vista of the Colorado River, from a painting by Thomas Moran. The landscape consists of over 900 masonite panels.",
     "tags": [],
     "location": "Houston, TX",
     "additional": [
-      { "img": "Rice-Gallery-Show-portrait.jpg" },
+      { "img": "Rice-Gallery-Show-portrait.webp" },
       { "text": "Photo of John Cerney in front of his show." }
     ]
   },
   {
-    "main": "Rally-Salinas.jpg",
+    "main": "Rally-Salinas.webp",
     "title": "Rally Salinas",
     "date": 2005,
     "description": "A 10 foot tall little girl reading a book. Cerney donated the mural to help the city of Salinas, CA with its' financial difficulties and potential closure of its libraries.",
@@ -587,7 +587,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Meridian-Vineyards-Barn-Mural.jpg",
+    "main": "Meridian-Vineyards-Barn-Mural.webp",
     "title": "Meridian Vineyards Barn Mural",
     "date": 2005,
     "description": "A pin-up girl themed mural/billboard located on Highway 46, 10 miles East of Paso Robles, CA.",
@@ -595,19 +595,19 @@
     "location": "Paso Robles, CA"
   },
   {
-    "main": "Enjoy-the-Game.jpg",
+    "main": "Enjoy-the-Game.webp",
     "title": "Enjoy the Game",
     "date": "1991 & 2005",
     "description": "This barn on Highway 101 north of Salinas changed its' theme from Enjoy the Drive to the baseball scene Enjoy the Game in 1991, and in this image from 2005 when it was totally restored. It depicts the 'golden era' of baseball from the 1940's and 50's. Revenue was derived from the sponsorship of the billboard panels and the fans in the stands. 12 feet tall by 50 feet wide.",
     "tags": ["california", "early"],
     "location": "Salinas, CA",
     "additional": [
-      { "img": "Enjoy-the-Game-billboard.jpg" },
+      { "img": "Enjoy-the-Game-billboard.webp" },
       { "text": "One of the billboards just completed in the artists shop for the baseball barn scene on Highway 101 north of Salinas, CA. The model is Lisa Silacci and the sponsor of the 5-a-day message is the Mills Family Farms." }
     ]
   },
   {
-    "main": "James-Dean-CA.jpg",
+    "main": "James-Dean-CA.webp",
     "title": "James Dean",
     "date": 2004,
     "description": "For the 50th Anniversary of his death on Sept. 30th, 1955. The location is on Highway 46 in Central California, at Blackwell's Corner, the last stop Dean made before being fatally injured in a car crash down the road. Painted on square plywood panels. 12 feet tall.",
@@ -615,7 +615,7 @@
     "location": "Central California"
   },
   {
-    "main": "The-Big-Catch.jpg",
+    "main": "The-Big-Catch.webp",
     "title": "The Big Catch",
     "date": 2004,
     "description": "Casper, Wyoming (assisted by Dong Sun Kim). Placed beyond the outfield wall of a minor league ballpark, the owner wanted to liven up the atmosphere of the park, and the artist took advantage of the river that runs next to the field to show 2 kids taking in the ballgame while casting for trout. 20 feet tall.",
@@ -623,7 +623,7 @@
     "location": "Casper, WY"
   },
   {
-    "main": "Marathon-Finisher.jpg",
+    "main": "Marathon-Finisher.webp",
     "title": "Marathon Finisher",
     "date": 2003,
     "description": "12 feet tall. A tribute to Lise' Belton, who inspired the artist to start running in the mid-90's, ultimately completing the Big Sur Marathon with his friend Lise' in 2000. The painting is placed near the finish line of the Big Sur Marathon every April as a celebration of the accomplishment.",
@@ -631,7 +631,7 @@
     "location": "Big Sur, CA"
   },
   {
-    "main": "Marilyn-Monroe-2003.jpg",
+    "main": "Marilyn-Monroe-2003.webp",
     "title": "Marilyn Monroe",
     "date": 2003,
     "description": "Done for the Ag Wing of the National Steinbeck Center. 10 feet tall. Plays with the historical fact that Ms. Monroe was named the Artichoke Queen of the Castroville Artichoke Festival in 1948, before she was a Hollywood star. Assisted by Dong Sun Kim. The Ag Wing is no longer, but the painting sits in the lobby of the Center.",
@@ -639,33 +639,33 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Timshel.jpg",
+    "main": "Timshel.webp",
     "title": "Timshel",
     "date": 2002,
     "description": "Commissioned by Mike Corlett, co-owner of Brandon & Tibbs Accounting firm in Salinas, Ca. This mural is painted on masonite and screwed onto their downstairs lobby wall. Actor James Dean stopping at a market/service station on his fateful trip to Salinas for some auto races. He died a few miles down the road in a head-on collision. Assisted by Dong Sun Kim. 10 feet tall by 12 feet wide.",
     "tags": ["california"],
     "location": "Salinas, CA",
     "additional": [
-      { "img": "Timshel-detail.jpg" },
+      { "img": "Timshel-detail.webp" },
       { "text": "Detail photo of James Dean standing next to his Porsche Spyder from this mural in the Brandon & Tibbs lobby in Salinas, CA." }
     ]
   },
   {
-    "main": "Phoenix-Zoo.jpg",
+    "main": "Phoenix-Zoo.webp",
     "title": "Phoenix Zoo",
     "date": 2002,
     "description": "Dong Sun Kim did the actual painting of this giant anaconda greeting visitors to the Phoenix Zoo. It is larger than life, but not by much.",
     "tags": [],
     "location": "Phoenix, AZ",
     "additional": [
-      { "img": "Phoeniex-Zoo-detail1.jpg" },
+      { "img": "Phoeniex-Zoo-detail1.webp" },
       { "text": "Shown in Cerney's shop, this is a series of snakes created for the zoo that would hang in various areas to keep the visitors on their toes. Snakes were featured for this particular exhibit." },
-      { "img": "Phoeniex-Zoo-detail2.jpg" },
+      { "img": "Phoeniex-Zoo-detail2.webp" },
       { "text": "This scene sits at the entry to the capybara (worlds largest rodent) enclosure at the zoo, with a frightened feline for emphasis. Assisted by Dong Sun Kim." }
     ]
   },
   {
-    "main": "Karate-Kid.jpg",
+    "main": "Karate-Kid.webp",
     "title": "Karate Kid",
     "date": 2001,
     "description": "Assisted by Dong Sun Kim, this 18 foot tall little girl with her dog is meant to be a reminder to drivers on Highway 68 near Salinas, CA that there is a shopping center right behind her....with Karate classes as well.",
@@ -673,7 +673,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Cat-in-Basket.jpg",
+    "main": "Cat-in-Basket.webp",
     "title": "Cat in Basket",
     "date": 2001,
     "description": "In progress shot of a private commission that would become a wall-hanging.",
@@ -681,7 +681,7 @@
     "location": "California"
   },
   {
-    "main": "Polo-Pony.jpg",
+    "main": "Polo-Pony.webp",
     "title": "Polo Pony",
     "date": 2001,
     "description": "One of two polo ponies and riders that Mr. Kim and Cerney painted for the El Dorado Polo Club in Palm Desert, CA. 16 feet tall, they greet visitors as they enter the grounds.",
@@ -689,7 +689,7 @@
     "location": "Palm Desert. CA"
   },
   {
-    "main": "Vincent-van-Gogh.jpg",
+    "main": "Vincent-van-Gogh.webp",
     "title": "Vincent van Gogh",
     "date": 2000,
     "description": "Nearly completed in this shot, it is a tribute mural to one of Cerney's favorite artists. The owners of the Star Shopping Center in Salinas, CA. paid for the supplies and allowed Cerney the use of a panel on a side street of the shopping center. It was painted randomly using little cut-out sections of a larger poster of one of the artist's many self portraits. Working in this way allowed Cerney to experiment with color and not become obsessed with copying a Van Gogh.",
@@ -697,7 +697,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Abbott-Street-Auto-Body.jpg",
+    "main": "Abbott-Street-Auto-Body.webp",
     "title": "Abbott Street Auto Body",
     "date": 2000,
     "description": "Salinas, CA. Slightly larger than life, this is the 2nd generation mural created for a local auto body shop. Assisted by Dong Sun Kim.",
@@ -705,7 +705,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Crying-Little-Girl.jpg",
+    "main": "Crying-Little-Girl.webp",
     "title": "Little Girl with Torn Teddy Bear and Dalmatian",
     "date": 1999,
     "description": "16 feet tall. Installed in a corn field off Highway 30 near Dunlap, Iowa. A non-commissioned piece by Cerney as a visual oddity for drivers.",
@@ -713,7 +713,7 @@
     "location": "Dunlap, IA"
   },
   {
-    "main": "Arm-with-Hat.jpg",
+    "main": "Arm-with-Hat.webp",
     "title": "Arm with Hat",
     "date": 1999,
     "description": "Placed on Highway 68 on the edge of the Salinas River Bridge. The artwork is 8 feet tall, but it sits about 25 feet off the ground. Commissioned by the Crown Packing Company and meant to welcome people to the Salinas Valley. Perhaps the most curious mural the artist has painted, Cerney is often asked what happened to the head.",
@@ -721,7 +721,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Big-Baby-with-Tractors.jpg",
+    "main": "Big-Baby-with-Tractors.webp",
     "title": "Big Baby with Tractors",
     "date": 1998,
     "description": "20 feet tall and located in Goodyear, AZ about 10 miles West of Phoenix on Highway 10. Commissioned by Duncan Family Farms as a 'marker' for travelers to spot before taking the next exit to their educational farm (closed in 2004). Assisted by Dong Sun Kim.",
@@ -729,7 +729,7 @@
     "location": "Phoenix, AZ"
   },
   {
-    "main": "Iowa-Landscape.jpg",
+    "main": "Iowa-Landscape.webp",
     "title": "Iowa Landscape",
     "date": 1997,
     "description": "A non-commissioned scene on a farm in western Iowa. Cerney convinced the parents of an ex-produce worker friend to allow him to place this unusual domestic scene on the edge of their farm off Highway 30, near Dunlap, Iowa. 16 feet tall, the man is hanging an Iowa landscape painting in front of an actual Iowa landscape. The Heins are posed in the foreground, owners of the farm. This scene was replaced in 1999 by the Little Girl Crying, and the landscape scene now sits in front of a picture frame shop in Salinas, CA.",
@@ -737,21 +737,21 @@
     "location": "Dunlap, IA"
   },
   {
-    "main": "Sams.jpg",
+    "main": "Sams.webp",
     "title": "Sam's Friendly Produce Stand",
     "date": "1997 & 2005",
     "description": "This time working with Dong Sun Kim, Cerney said goodbye to Tony's and welcomed in Sam's...Sam being named after Sam Eastman, the property owner. Real awnings installed, a cool old Corvette, and many more cutout people to create a buzz of activity.",
     "tags": ["california", "early"],
     "location": "Salinas, CA",
     "additional": [
-      { "img": "Sams2.jpg" },
+      { "img": "Sams2.webp" },
       { "text": "Cerney kept the revenue stream coming by employing a larger flatbed truck with even larger cartons than before." },
-      { "img": "Sams3.jpg" },
+      { "img": "Sams3.webp" },
       { "text": "In the foreground section, a little girl (Lizzie) pulls a wagon full of watermelons, dropping one. All figures were roughly life-size." }
     ]
   },
   {
-    "main": "Grapes-of-Wrath.jpg",
+    "main": "Grapes-of-Wrath.webp",
     "title": "Grapes of Wrath",
     "date": 1995,
     "description": "12 feet tall by 16 feet wide. Installed alongside Highway 68 in Salinas as a teaser for the upcoming National Steinbeck Center, opened several months later. John Steinbeck is seen peeking behind one of the gas pumps in this 'still' from the Hollywood movie of Steinbeck's popular novel. Taken down in the early 2000's.",
@@ -759,7 +759,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Bob-Lyman.jpg",
+    "main": "Bob-Lyman.webp",
     "title": "Bob Lyman",
     "date": 1995,
     "description": "One of the 3 original 'giant' figures that Cerney painted for the Crown Packing Company in Salinas, CA. Bob, a fieldman for Crown for over 50 years, was honored with this painting on his 80th birthday. It was originally installed on Highway 101 just south of Salinas, then moved a few years later to Highway 68 near the Salinas River. It was completely re-done in 2002 with the new acrylic paints that the artist now uses.",
@@ -767,19 +767,19 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Farmer-and-Irrigator.jpg",
+    "main": "Farmer-and-Irrigator.webp",
     "title": "Farmer & Irrigator",
     "date": 1995,
     "description": "The first of the 'giant' figures. 18 feet tall. Highway 68, Salinas, CA. Commissioned by Salinas grower Chris Bunn to pay tribute to the agricultural labor force. Two in a series of 10 total farm figures.",
     "tags": ["california", "early"],
     "location": "Salinas, CA",
     "additional": [
-      { "img": "Farmer-and-Irrigator-updated.jpg" },
+      { "img": "Farmer-and-Irrigator-updated.webp" },
       { "text": "Newer version of the mural above with some color changes." }
     ]
   },
   {
-    "main": "Alans-Glass.jpg",
+    "main": "Alans-Glass.webp",
     "title": "Alan's Glass",
     "date": 1994,
     "description": "Lifesize cut-out mural for an auto glass shop in Sand City, CA. The '55 Chevy was borrowed from baseball star Reggie Jackson's collection for the scene. Fellow artist Olia Polovneff painted the 2 figures.",
@@ -787,7 +787,7 @@
     "location": "Sand City, CA"
   },
   {
-    "main": "Another-Landscape-Painter.jpg",
+    "main": "Another-Landscape-Painter.webp",
     "title": "Another Landscape Painter",
     "date": 1994,
     "description": "6 feet tall by 10 feet wide. One of Cerney's first freestanding cut-out murals, placed alongside Highway 101 in Prunedale on the property of Schoch Dairy. Designed by Cerney, but painted by Olia Polovneff. No longer in existence.",
@@ -795,7 +795,7 @@
     "location": "Prunedale, CA"
   },
   {
-    "main": "Cochetti-Body-Shop.jpg",
+    "main": "Cochetti-Body-Shop.webp",
     "title": "Cochetti Body Shop",
     "date": "1986 & 1993",
     "description": "Cerney's first commercial mural, located in Salinas, CA. Painted on cinderblock wall. Lifesize.",
@@ -803,7 +803,7 @@
     "location": "Salinas, CA"
   },
   {
-    "main": "Enjoy-the-Drive.jpg",
+    "main": "Enjoy-the-Drive.webp",
     "title": "Enjoy the Drive",
     "date": "1985 & 1993",
     "description": "Located off Highway 101 in Aromas. 11 feet tall by 50 feet wide. One of Cerney's very early barn murals, and a rare one painted in black and white, it was just a fun message of not stressing out on your daily drive. Cerney painted it in oil-base enamel, and it started cracking and deteriorating within 3 years. He ultimately started using water base acrylic paints, and this barn mural became his 'Enjoy the Game' mural in 1991.",
@@ -811,16 +811,16 @@
     "location": "Aromas, CA"
   },
   {
-    "main": "Tonys-Friendly-Auto-Service.jpg",
+    "main": "Tonys-Friendly-Auto-Service.webp",
     "title": "Tony's Friendly Auto Service",
     "date": 1983,
     "description": "Highway 68 near Salinas,CA (16 feet tall by 30 feet wide). Cerney's very first public art project after graduating from Cal State University Long Beach. Cerney asked the owner (Sam Eastman) if he could paint his old barn, and he said to go ahead. It turns out that the building is one of the oldest standing structures in Monterey County (1860's), and Cerney has painted 7 different mural images on this site over the years.",
     "tags": ["california", "early"],
     "location": "Salinas, CA",
     "additional": [
-      { "img": "Tonys-Friendly-Auto-Service-2.jpg" },
+      { "img": "Tonys-Friendly-Auto-Service-2.webp" },
       { "text": "Cerney wanted to refresh the mural and add some 3-dimensional elements to the scene, so he painted a gal in an old Corvette, and the service manager is sticking outside the right edge of the building. This version appeared in National Geographic Magazine in 1988." },
-      { "img": "Tonys-Friendly-Auto-Service-3.jpg" },
+      { "img": "Tonys-Friendly-Auto-Service-3.webp" },
       { "text": "Cerney finally came up with a concept to make some money on this mural by adding a flatbed pickup truck loaded up with Salinas Valley produce boxes, and charging each company that signed up a fee to have their label painted on. The scene also started to get more populated with customers. As with most of his personal projects, Cerney used friends as models." }
     ]
   }

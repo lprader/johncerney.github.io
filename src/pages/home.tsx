@@ -27,7 +27,7 @@ class Home extends React.Component<{}, HomeState> {
     return (  
       <div id="home" className="homepage">
         <ParallaxBanner style={{ aspectRatio: '2 / 1', minHeight: "600px" }}>
-          <ParallaxBannerLayer image='header.png' speed={-10} />
+          <ParallaxBannerLayer image='header.webp' speed={-10} />
           <ParallaxBannerLayer speed={20}><div className="banner"><h1>Giant Highway Art</h1></div></ParallaxBannerLayer>
         </ParallaxBanner>
 
