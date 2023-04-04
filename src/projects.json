@@ -294,7 +294,7 @@
     "tags": ["midwestern"],
     "location": "Benton, IL",
     "additional": [
-      { "video": "https://www.youtube.com/embed/P4ELCWk-IZ8" }
+      { "video": ["https://www.youtube.com/embed/P4ELCWk-IZ8","George-Harrison-still.webp"] }
     ]
   },
   {
@@ -337,7 +337,7 @@
     "tags": ["california"],
     "location": "Gonzales, CA",
     "additional": [
-      { "video": "https://www.youtube.com/embed/By7yBEgYlg0" }
+      { "video": ["https://www.youtube.com/embed/By7yBEgYlg0", "Brischini-still.webp"] }
     ]
   },
   {

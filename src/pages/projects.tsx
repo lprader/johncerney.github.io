@@ -10,7 +10,7 @@ import Masonry, {ResponsiveMasonry} from "react-responsive-masonry";
 interface Additional {
   text?: string;
   img?: string;
-  video?: string;
+  video?: string[];
 }
 
 export interface Project {
@@ -30,6 +30,7 @@ const filters = ["all", "recent", "early", "midwestern", "california"];
 interface ProjectsState {
   filter: string;
   modalImg: string;
+  modalVideo: string;
   showModal: boolean;
   projects: Project[];
 }
@@ -38,16 +39,21 @@ class Projects extends React.Component<{}, ProjectsState> {
   state = {
     filter: filters[0],
     modalImg: "",
+    modalVideo: "",
     showModal: false,
     projects: projectsList
   }
 
-  toggleModal = (modalImg:string | boolean, showModal:boolean) => {
-    if (typeof modalImg === "boolean") {
-      showModal = modalImg;
-      modalImg = "";
+  toggleModal = (url:string | boolean, showModal:boolean) => {
+    let modalImg = "";
+    let modalVideo = "";
+    if (typeof url === "boolean") {
+      showModal = url;
+    } else {
+      if (url.indexOf("youtube") > -1) modalVideo = url;
+      else modalImg = url;
     }
-    this.setState({ modalImg, showModal });
+    this.setState({ modalImg, modalVideo, showModal });
   }
 
   onFilterUpdate = (filter:string) => {
@@ -87,7 +93,10 @@ class Projects extends React.Component<{}, ProjectsState> {
                     <div className="project-img-container"><img src={"murals/"+item.img} alt={obj.title} onClick={() => {this.toggleModal("murals/"+item.img, true)}}/></div>
                   </LazyLoad>)
                   else if (item.text) return <p>{item.text}</p>
-                  else if (item.video) return <iframe title="Video of project" className="video" src={item.video} frameBorder="0" allowFullScreen />
+                  else if (item.video) return (<LazyLoad height={300} offset={100}>
+                    <div className="project-img-container"><img src={"murals/"+item.video[1]} alt={obj.title} onClick={() => {if (item.video) this.toggleModal(item.video[0], true)}}/></div>
+                  </LazyLoad>)
+                  // else if (item.video) return <iframe title="Video of project" className="video" src={item.video} frameBorder="0" allowFullScreen />
                 })) : null}
               </div>)
             })}
@@ -97,6 +106,7 @@ class Projects extends React.Component<{}, ProjectsState> {
         {(this.state.showModal)? 
           <Modal 
             imgUrl={this.state.modalImg}
+            videoUrl={this.state.modalVideo}
             toggleModalFunction={this.toggleModal}
           /> : null}
       </div>
