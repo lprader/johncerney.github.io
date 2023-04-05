@@ -105,6 +105,7 @@ h4 {
 /* ------------------------------- grid -------------------------------- */
 /* ===================================================================== */
 .row {
+  max-width: 800px;
   margin: 0 auto 0 auto;
   display: grid;
 }
@@ -189,6 +190,23 @@ h4 {
   #navLinks {
     width: 100vw;
     margin: auto;
+  }
+
+  #navLinks a {
+    margin: auto auto auto 10px;
+  }
+
+  .secondary-banner p {
+    letter-spacing: 3px;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 1em auto 0 auto;
+    width: 100%;
+  }
+  
+  .secondary-banner img {
+    height: 65px;
+    transition: transform .3s;
   }
 }
 
@@ -373,6 +391,25 @@ h4 {
   transform: scale(1.1);
 }
 
+@media screen and (max-width: 600px) {
+  .banner h1 {
+    font-size: 4em;
+    margin-top: 2em;
+  }
+
+  .secondary-banner p {
+    font-size: 1.25em;
+  }
+  
+  .secondary-banner img {
+    height: 55px;
+    margin-top: 2.5em;
+  }
+}
+
+
+
+
 .wrapper { 
   overflow: hidden;
   background-color: black;
@@ -403,12 +440,18 @@ h4 {
 }
 
 @media screen and (max-width: 900px) {
-   .left-col { 
-    float: none;
-    margin-right: 0;
-    width: auto;
-    text-align: center;
-  }
+  .left-col { 
+   float: none;
+   margin-right: 0;
+   width: auto;
+   text-align: center;
+ }
+}
+
+@media screen and (max-width: 600px) {
+  .left-col video { 
+   width: 100%;
+ }
 }
 
 .full-page-modal {
