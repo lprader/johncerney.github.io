@@ -9,6 +9,7 @@ import Home from "./pages/home";
 import NavBar from './components/navBar';
 import Press from "./pages/press";
 import Projects from "./pages/projects";
+import Triton from "./pages/triton";
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -29,6 +30,7 @@ root.render(
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/press" element={<Press />} />
+        <Route path="/tall-tales" element={<Triton />} />
       </Routes>
     </div>
     </ParallaxProvider>

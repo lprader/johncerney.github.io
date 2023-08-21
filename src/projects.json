@@ -1,5 +1,24 @@
 [
   {
+    "main": "Mission-Open-Air-Market.webp",
+    "title": "Mission Open Air Market",
+    "date": 2023,
+    "description": "A scene of giant shoppers along with Joel, the owner and King of Bargains. All roughly 16 feet tall.",
+    "tags": ["recent"],
+    "location": "San Antonio, TX",
+    "additional": [
+      { "img": "Mission-Open-Air-Market-2.webp" }
+    ]
+  },
+  {
+    "main": "Giant-Strawberry.webp",
+    "title": "Giant Strawberry",
+    "date": 2023,
+    "description": "The latest billboard mural for the Nunes Company, a local produce company. This is the 9th mural the artist has painted on this historic old barn from the 1860's. His first mural was painted on this barn when he graduated from college in 1984. 25 feet wide by 20 feet tall, all on plywood panels.",
+    "tags": ["california", "recent"],
+    "location": "Salinas, CA"
+  },
+  {
     "main": "Airstream.webp",
     "title": "Airstream",
     "date": 2023,
