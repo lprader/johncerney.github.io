@@ -27,14 +27,6 @@ class Home extends React.Component<{}, HomeState> {
     let recentProjects = projectsList.slice(0, 3);
     return (  
       <div id="home" className="homepage">
-        <Popup
-          header="COMING SOON:"
-          subheader="Tall Tales"
-          text="View John Cerney's work in person at the Triton Museum of Art in Santa Clara, California"
-          buttonText="More Info"
-          buttonLink="./tall-tales"
-        ></Popup>
-
         <ParallaxBanner style={{ aspectRatio: '2 / 1', minHeight: "600px" }}>
           <ParallaxBannerLayer image='header.webp' speed={-10} />
           <ParallaxBannerLayer speed={20}><div className="banner"><h1>Giant Highway Art</h1></div></ParallaxBannerLayer>

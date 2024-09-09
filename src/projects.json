@@ -1,9 +1,48 @@
 [
   {
+    "main": "Flying-Tigers-Pilot.webp",
+    "title": "Flying Tigers Pilot",
+    "date": 2024,
+    "description": "A commission from the artist’s cousin as a gift to his wife. Her father was a Flying Tigers fighter pilot in WWII. 47\" tall by 62\" wide.",
+    "tags": ["recent"],
+    "location": ""
+  },
+  {
+    "main": "Amelia-Comes-Home-update.webp",
+    "title": "Amelia Earhart",
+    "date": 2024,
+    "description": "The artist initially created 'Amelia Comes Home' for Amelia Earhart's birthplace of Atchison, Kansas back in 2012. The plywood had deteriorated after 11 years, so he created a brand new version with a few changes, mostly enlarging Amelia so she's easier to see from the highway. 13 feet tall.",
+    "tags": ["recent"],
+    "location": "Atchison, KS",
+    "additional": [
+      { "img": "Amelia-Comes-Home-update-2.webp" }
+    ]
+  },
+  {
+    "main": "Giant-Marfa-update-2.webp",
+    "title": "Giant Marfa",
+    "date": 2024,
+    "description": "Wyatt Ranches commissioned the artist to add new pieces to his existing mural, first painted in 2018. One of the vaqueros that works the ranches is shown herding some cattle, and a gushing oil well was placed in the background. Oil and cattle were major players in the movie 'Giant' from 1956.",
+    "tags": ["recent"],
+    "location": "Marfa, TX"
+  },
+  {
+    "main": "Uvalde.webp",
+    "title": "Welcome to Ulvalde",
+    "date": 2023,
+    "description": "A commission from the city of Uvalde, TX to honor some of their celebrity sons and daughters: Dale Evans, Matthew McConaughey, and the Tejano group, Los Palominos.",
+    "tags": ["recent"],
+    "location": "Uvalde, TX",
+    "additional": [
+      { "img": "Uvalde-2.webp" },
+      { "img": "Uvalde-3.webp" }
+    ]
+  },
+  {
     "main": "Mission-Open-Air-Market.webp",
     "title": "Mission Open Air Market",
     "date": 2023,
-    "description": "A scene of giant shoppers along with Joel, the owner and King of Bargains. All roughly 16 feet tall.",
+    "description": "A scene of giant shoppers along with Joel, the owner and King of Bargains, in San Antonio, TX. All roughly 16 feet tall.",
     "tags": ["recent"],
     "location": "San Antonio, TX",
     "additional": [
@@ -14,7 +53,7 @@
     "main": "Giant-Strawberry.webp",
     "title": "Giant Strawberry",
     "date": 2023,
-    "description": "The latest billboard mural for the Nunes Company, a local produce company. This is the 9th mural the artist has painted on this historic old barn from the 1860's. His first mural was painted on this barn when he graduated from college in 1984. 25 feet wide by 20 feet tall, all on plywood panels.",
+    "description": "The latest billboard mural for the Nunes Company, a local produce company in Salinas, CA. This is the 9th mural the artist has painted on this historic old barn from the 1860's. His first mural was painted on this barn when he graduated from college in 1984. 25 feet wide by 20 feet tall, all on plywood panels.",
     "tags": ["california", "recent"],
     "location": "Salinas, CA"
   },
