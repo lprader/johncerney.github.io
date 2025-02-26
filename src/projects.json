@@ -24,7 +24,10 @@
     "date": 2024,
     "description": "Wyatt Ranches commissioned the artist to add new pieces to his existing mural, first painted in 2018. One of the vaqueros that works the ranches is shown herding some cattle, and a gushing oil well was placed in the background. Oil and cattle were major players in the movie 'Giant' from 1956.",
     "tags": ["recent"],
-    "location": "Marfa, TX"
+    "location": "Marfa, TX",
+    "additional": [
+      { "img": "Giant-Marfa-update-3.webp" }
+    ]
   },
   {
     "main": "Uvalde.webp",
