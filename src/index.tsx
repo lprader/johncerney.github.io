@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import { HashRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { ParallaxProvider } from 'react-scroll-parallax';
 import Bio from "./pages/bio";
 import Contact from "./pages/contact";
@@ -16,7 +16,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <HashRouter>
+    <BrowserRouter>
     <ParallaxProvider>
     <div id="app">
       <NavBar 
@@ -34,6 +34,6 @@ root.render(
       </Routes>
     </div>
     </ParallaxProvider>
-    </HashRouter>
+    </BrowserRouter>
   </React.StrictMode>
 );
