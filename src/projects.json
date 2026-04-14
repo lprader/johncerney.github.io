@@ -1,4 +1,90 @@
-[
+[  
+  {
+    "main": "Angry-Marlin.webp",
+    "title": "The Angry Marlin Restaurant",
+    "date": 2017,
+    "description": "Some pieces that were part of a show in Rice Gallery in Houston, TX in 2006 repurposed for a display at the Angry Marlin Restaurant.",
+    "tags": [],
+    "location": "Corpus Christi, TX",
+    "additional": [
+      { "img": "Angry-Marlin-2.webp" }
+    ]
+  },
+  {
+    "main": "Jack-Nicholson.webp",
+    "title": "Jack Nicholson",
+    "date": 2026,
+    "description": "Commission by a fashion designer and placed in his loft. Historic LA City Hall in the background.",
+    "tags": ["recent", "california"],
+    "location": "Los Angeles, CA"
+  },
+  {
+    "main": "Alans-Glass-2026.webp",
+    "title": "Alan's Auto Glass",
+    "date": 2026,
+    "description": "A sign for Alan's Auto glass, featuring a 1959 Cadillac convertible.",
+    "tags": ["recent", "california"],
+    "location": "Seaside, CA"
+  },
+    {
+    "main": "Say-Hey.webp",
+    "title": "Say Hey",
+    "date": "2025/2026",
+    "description": "A tribute to the artist's boyhood hero, Willie Mays, who passed away in 2024. Plywood pieces attached to an old barn the artist has painted scenes on since 1985. Located 11 miles north of Salinas on Highway 101.",
+    "tags": ["recent", "california"],
+    "location": "Salinas, CA",
+    "additional": [
+      { "img": "Say-Hey-2.webp" }
+    ]
+  },
+  {
+    "main": "Farmers-Daughter.webp",
+    "title": "Farmer's Daughter",
+    "date": 2025,
+    "description": "A donated scene, placed at the Anthony Acres Charter School off of State Highway 37. A love letter to old barns and midwestern farms.",
+    "tags": ["recent", "midwestern"],
+    "location": "Mondovi, WI"
+  },
+  {
+    "main": "bad-dog-1.webp",
+    "title": "Bad Dog",
+    "date": 2025,
+    "description": "A replacement mural for one that was first painted in 1999. The original deteriorated and the city commissioned Cerney to create a new one. Lizzie is the little girl (17 feet tall) and Diago is the mischievous Dalmatian (12 feet tall).",
+    "tags": ["recent"],
+    "location": "Dunlap, IA",
+    "additional": [
+      { "img": "bad-dog-2.webp" },
+      { "img": "bad-dog-3.webp" }
+    ]
+  },
+  {
+    "main": "neighbors-1.webp",
+    "title": "Neighbors",
+    "date": 2024,
+    "description": "A donated mural to the city, showing past celebrity residents of Palm Springs out retrieving their mail. A temporary installation on a vacant lot owned by Jim Landé. All roughly 12 feet tall.",
+    "tags": ["recent", "california"],
+    "location": "Palm Springs, CA",
+    "additional": [
+      { "img": "neighbors-2.webp" },
+      { "img": "neighbors-3.webp" }
+    ]
+  },
+  {
+    "main": "albert-okura.webp",
+    "title": "Tribute to Albert Okura",
+    "date": 2024,
+    "description": "A donated mural honoring the man who purchased the tiny town of Amboy, CA on a lonely stretch of historic Route 66 in southern California. 16 feet tall.",
+    "tags": ["recent", "california"],
+    "location": "Amboy, CA"
+  },
+  {
+    "main": "produce-truck.webp",
+    "title": "Produce Truck",
+    "date": 2024,
+    "description": "A vintage flatbed truck loaded with Salinas Valley produce cartons, installed at The Farm off of Highway 68 in Salinas. Many of these cartons are historic and no longer being used, and the rest are current day, with the companies purchasing a spot to display their product for cars driving by. 12 feet tall.",
+    "tags": ["recent", "california"],
+    "location": "Salinas, CA"
+  },
   {
     "main": "Flying-Tigers-Pilot.webp",
     "title": "Flying Tigers Pilot",
@@ -73,7 +159,7 @@
     "title": "Marilyn Monroe",
     "date": 2022,
     "description": "Work in progress on a Marilyn Monroe cutout painting for a local frame shop in Salinas, CA. She will accompany Elvis Presley on a wall near the entrance to the shop. 8 feet tall.",
-    "tags": ["california", "recent"],
+    "tags": ["california"],
     "location": "Salinas, CA"
   },
   {
@@ -81,7 +167,7 @@
     "title": "Sunflowers for Vincent",
     "date": 2022,
     "description": "A donated piece for the Triton Museum of Art in Santa Clara, CA. A young peasant woman has just cut some fresh sunflowers and has come upon one of Van Gogh's iconic sunflower paintings. The sunflowers were created out of 88 individual plywood panels. 16 feet tall.",
-    "tags": ["california", "recent"],
+    "tags": ["california"],
     "location": "Santa Clara, CA"
   },
   {
@@ -89,7 +175,7 @@
     "title": "James Dean",
     "date": 2022,
     "description": "Mural placed at the entrance to Marion, Indiana, where Dean was born. He leads you to his birth site memorial down the street. The home where he was born has been torn down, but a memorial created by Dean historian David Loehr stands at that spot. 12 feet tall.",
-    "tags": ["midwestern", "recent"],
+    "tags": ["midwestern"],
     "location": "Marion, IN"
   },
   {
@@ -97,7 +183,7 @@
     "title": "James Dean",
     "date": 2022,
     "description": "The artist standing next to his James Dean installation in Fairmount, Indiana, where the actor grew up. 14 feet tall.",
-    "tags": ["midwestern", "recent"],
+    "tags": ["midwestern"],
     "location": "Fairmount, IN"
   },
   {
@@ -105,7 +191,7 @@
     "title": "Aretha Franklin & Justin Timberlake",
     "date": 2022,
     "description": "Installed on the grounds of the Lowenstein Mansion near downtown, Memphis, TN. Part of a series of musical icons that are connected with Memphis in some way. 12 feet tall.",
-    "tags": ["recent"],
+    "tags": [],
     "location": "Memphis, TN",
     "additional": [
       { "img": "Justin-Timberlake.webp" }
@@ -116,7 +202,7 @@
     "title": "The Artist",
     "date": 2022,
     "description": "Highway 172 in Ignacio, CO. Donated to the community and Blackbelly Arts. The artist is taking his paint-by-number canvas seriously. 13 feet tall.",
-    "tags": ["recent"],
+    "tags": [],
     "location": "Ignacio, CO"
   },
   {
@@ -124,7 +210,7 @@
     "title": "Everly Brothers Tribute",
     "date": 2022,
     "description": "Highway 2 outside of Shenandoah, Iowa. The brothers grew up in this small southwestern town in Iowa, playing radio gigs with their parents, both also musicians. 18 feet tall.",
-    "tags": ["midwestern", "recent"],
+    "tags": ["midwestern"],
     "location": "Shenandoah, IA",
     "additional": [
       { "img": "Everly-Brothers-detail.webp" }
@@ -135,7 +221,7 @@
     "title": "Awe Goats",
     "date": 2022,
     "description": "Three giant Nigerian Dwarf Baby goats on the Beekman 1802 Farm outside of Sharon Springs, NY. Beekman 1802 is a skin and beauty care company that uses goats milk in many of their products. 18 feet tall.",
-    "tags": ["recent"],
+    "tags": [],
     "location": "Sharon Springs, NY",
     "additional": [
       { "img": "Awe-Goats-2.webp" }, 

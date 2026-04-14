@@ -86,7 +86,7 @@ class Projects extends React.Component<{}, ProjectsState> {
                 <div className="project-img-container"><img src={"murals/"+obj.main} alt={obj.title} onClick={() => {this.toggleModal("murals/"+obj.main, true)}} /></div>
                 </LazyLoad>
                 <h3>{obj.title}</h3>
-                <h4>{obj.date}</h4>
+                {obj.location? <h4>{obj.location} - {obj.date}</h4> : <h4>{obj.date}</h4>}
                 <p>{obj.description}</p>
                 {(obj.additional)? (obj.additional.map(item => {
                   if (item.img) return (<LazyLoad height={500} offset={100}>
